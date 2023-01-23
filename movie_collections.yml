@@ -1,0 +1,869 @@
+######################################################
+#                Chart Collections                   #
+######################################################
+templates:
+  Director:
+    sort_title: "!A <<collection_name>>"
+    tmdb_director_details: <<tmdb>>
+    collection_order: release
+    collection_mode: hide
+    schedule: weekly(sunday)
+  Studio:
+    sort_title: "!B <<collection_name>>"
+    collection_mode: hide
+    schedule: daily
+  Special Genre:
+    sort_title: "!C <<collection_name>>"
+    collection_order: alpha
+    collection_mode: hide
+  Movies:
+    optional:
+      - collection
+      - tmdb_movie
+      - trakt_list
+      - tmdb_list
+      - tpdb_id
+    trakt_list_details: <<trakt_list>>
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<tmdb_movie>>
+    tmdb_list: <<tmdb_list>>
+    url_upload: https://theposterdb.com/api/assets/<<tpdb_id>>/view
+    sort_title: <<collection_name>>
+    collection_order: release
+    collection_mode: hide
+  Chart:
+    sort_title: +1_<<num>><<collection_name>>
+    sync_mode: sync
+    smart_label: random
+  Best of:
+    trakt_list: https://trakt.tv/users/lish408/lists/rotten-tomatoes-best-of-<<year>>
+    sort_title: +1_Best of <<year>>
+    sync_mode: sync
+    summary: Rotten Tomatoes Best Movies of <<year>>
+    smart_label: audience_rating.desc
+collections:
+  Plex Popular:
+    template: { name: Chart, num: 1 }
+    tautulli_popular:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    tautulli_watched:
+      list_days: 30
+      list_size: 20
+      list_buffer: 20
+    summary: Movies Popular on Plex
+  Trending:
+    template: { name: Chart, num: 2 }
+    trakt_trending: 10
+    tmdb_trending_daily: 10
+    tmdb_trending_weekly: 10
+    summary: Movies Trending across the internet
+  Popular:
+    template: { name: Chart, num: 3 }
+    tmdb_popular: 40
+    imdb_list:
+      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short
+      limit: 40
+    summary: Popular Movies across the internet
+  Top Rated:
+    template: { name: Chart, num: 4 }
+    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250/
+    tmdb_top_rated: 250
+    summary: Top Rated Movies across the internet
+  Oscars:
+    template: { name: Chart, num: 5 }
+    imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
+    summary: Oscar Winning Movies
+  Best of 2014:
+    template: { name: Best of, year: 2014 }
+  Best of 2015:
+    template: { name: Best of, year: 2015 }
+  Best of 2016:
+    template: { name: Best of, year: 2016 }
+  Best of 2017:
+    template: { name: Best of, year: 2017 }
+  Best of 2018:
+    template: { name: Best of, year: 2018 }
+  Best of 2019:
+    template: { name: Best of, year: 2019 }
+  Best of 2020:
+    template: { name: Best of, year: 2020 }
+  Best of 2021:
+    template: { name: Best of, year: 2021 }
+
+  300 Collection:
+    template:
+      collection: 125570
+      name: Movies
+      tpdb_id: 5575
+  A Nightmare on Elm Street Collection:
+    sort_title: Nightmare on Elm Street
+    template:
+      collection: 8581
+      name: Movies
+      tmdb_movie: 23437
+  A Quiet Place Collection:
+    sort_title: Quiet Place Collection
+    template:
+      collection: 521226
+      name: Movies
+      tpdb_id: 160105
+  AVP Collection:
+    template:
+      collection: 115762
+      name: Movies
+      tpdb_id: 50990
+  Ace Ventura Collection:
+    template:
+      collection: 3167
+      name: Movies
+      tpdb_id: 6612
+  Addams Family Collection:
+    template:
+      collection: 11716
+      name: Movies
+      tpdb_id: 53152
+  Airplane Collection:
+    template:
+      collection: 91663
+      name: Movies
+      tpdb_id: 36706
+  Aladdin Collection:
+    template:
+      collection: 86027
+      name: Movies
+      tmdb_movie: 420817
+      tpdb_id: 43734
+  Alice in Wonderland Collection:
+    template:
+      collection: 261307
+      name: Movies
+      tmdb_movie: 12092
+      tpdb_id: 44910
+  Alien Collection:
+    template:
+      collection: 8091
+      name: Movies
+      tmdb_movie: 70981,126889
+      tpdb_id: 1213
+  Almighty Collection:
+    template:
+      collection: 124949
+      name: Movies
+      tpdb_id: 51450
+  Alvin and the Chipmunks Collection:
+    template:
+      collection: 167613
+      name: Movies
+      tpdb_id: 23071
+  American Pie Collection:
+    template:
+      collection: 2806
+      name: Movies
+      tpdb_id: 951
+  An American Tail Collection:
+    template:
+      sort_title: American Tail Collection
+      collection: 8783
+      name: Movies
+      tpdb_id: 106339
+  An American Werewolf Collection:
+    template:
+      sort_title: American Werewolf Collection
+      collection: 9380
+      name: Movies
+      tpdb_id: 18581
+  Antman Collection:
+    template:
+      collection: 422834
+      name: Movies
+      tpdb_id: 4818
+  Armour of God Collection:
+    template:
+      collection: 146136
+      name: Movies
+  Atlantis Collection:
+    template:
+      collection: 100965
+      name: Movies
+      tpdb_id: 48045
+  Austin Powers Collection:
+    template:
+      collection: 1006
+      name: Movies
+      tpdb_id: 13969
+  Back to the Future Collection:
+    template:
+      collection: 264
+      name: Movies
+      tpdb_id: 63511
+  Bad Boys Collection:
+    template:
+      collection: 14890
+      name: Movies
+      tpdb_id: 43041
+  Bad Moms Collection:
+    template:
+      collection: 487376
+      name: Movies
+      tpdb_id: 37632
+  Bambi Collection:
+    template:
+      collection: 87250
+      name: Movies
+      tpdb_id: 46873
+  Beverly Hills Cop Collection:
+    template:
+      collection: 85861
+      name: Movies
+      tpdb_id: 45076
+  Bill & Ted's Most Excellent Collection:
+    template:
+      collection: 91756
+      name: Movies
+      tpdb_id: 98787
+  Blade Collection:
+    template:
+      collection: 735
+      name: Movies
+      tpdb_id: 12046
+  Blade Runner Collection:
+    template:
+      collection: 422837
+      name: Movies
+      tmdb_movie: 473072,475759,475946,9425
+      tpdb_id: 28342
+  Borat Moviefilms Collection:
+    template:
+      collection: 747168
+      name: Movies
+      tpdb_id: 107766
+  Brother Bear Collection:
+    template:
+      collection: 96472
+      name: Movies
+      tpdb_id: 50183
+  Captain America Collection:
+    template:
+      collection: 131295
+      name: Movies
+      tpdb_id: 4814
+  Cars Collection:
+    template:
+      collection: 87118
+      name: Movies
+      tpdb_id: 28785
+  Chili Palmer Collection:
+    template:
+      collection: 4551
+      name: Movies
+  Charlie Brown Collection:
+    template:
+      collection: 1028525
+      name: Movies
+      tmdb_movie: 31718,24251
+      tpdb_id: 188202
+  Cinderella Collection:
+    template:
+      collection: 55419
+      name: Movies
+      tmdb_movie: 150689
+      tpdb_id: 44918
+  City Slickers Collection:
+    template:
+      collection: 150156
+      name: Movies
+      tpdb_id: 95282
+  Clash of the Titans Collection:
+    template:
+      collection: 86780
+      name: Movies
+      tpdb_id: 51674
+  Clerks Collection:
+    template:
+      collection: 182813
+      name: Movies
+      tpdb_id: 275796
+  Cloudy with a Chance of Meatballs Collection:
+    template:
+      collection: 177467
+      name: Movies
+      tpdb_id: 101248
+  Crank Collection:
+    template:
+      collection: 64751
+      name: Movies
+      tpdb_id: 168168
+  Creed Collection:
+    template:
+      collection: 553717
+      name: Movies
+      tpdb_id: 35114
+  #----stopped here----#
+  Daddy's Home Collection:
+    template:
+      collection: 473971
+      name: Movies
+  Dead Snow Collection:
+    template:
+      collection: 286038
+      name: Movies
+  Deadpool Collection:
+    template:
+      collection: 448150
+      name: Movies
+  Despicable Me Collection:
+    template:
+      collection: 86066
+      name: Movies
+  Die Hard Collection:
+    sort_title: Die Hard
+    template:
+      collection: 1570
+      name: Movies
+  Divergent Collection:
+    template:
+      collection: 283579
+      name: Movies
+  Doctor Strange Collection:
+    template:
+      collection: 618529
+      name: Movies
+  Dragon Ball Collection:
+    template:
+      collection: /386410
+      name: Movies
+  Dragon Ball Super Collection:
+    template:
+      collection: 386410
+      name: Movies
+  Dragon Ball Z Collection:
+    template:
+      collection: 425164
+      name: Movies
+  Drunken Master Collection:
+    template:
+      collection: 12203
+      name: Movies
+  Dumb and Dumber Collection:
+    template:
+      collection: 96665
+      name: Movies
+  Dune Collection:
+    template:
+      collection: 726871
+      name: Movies
+  Escape From ... Collection:
+    template:
+      collection: 10061
+      name: Movies
+  Evil Dead Collection:
+    template:
+      collection: 1960
+      name: Movies
+  Fantasia Collection:
+    template:
+      collection: 55427
+      name: Movies
+  Fantastic Beasts Collection:
+    template:
+      collection: 435259
+      name: Movies
+  Fantastic Four Collection:
+    template:
+      collection: 9744
+      name: Movies
+  Father of the Bride Collection:
+    template:
+      collection: 96871
+      name: Movies
+  Final Destination Collection:
+    template:
+      collection: 8864
+      name: Movies
+  Finding Nemo Collection:
+    template:
+      collection: 137697
+      name: Movies
+  Friday Collection:
+    template:
+      collection: 43563
+      name: Movies
+  Frozen Collection:
+    template:
+      collection: 386382
+      name: Movies
+  G.I. Joe Collection:
+    template:
+      collection: 135468
+      name: Movies
+  Ghost in the Shell (Animated) Collection:
+    template:
+      collection: 23026
+      name: Movies
+  Ghost in the Shell Arise Collection:
+    template:
+      collection: 196753
+      name: Movies
+  Ghost in the Shell SAC Collection:
+    template:
+      collection: 443996
+      name: Movies
+  Ghostbusters Collection:
+    template:
+      collection: 2980
+      name: Movies
+  Goosebumps Collection:
+    template:
+      collection: 508783
+      name: Movies
+  Guardians of the Galaxy Collection:
+    template:
+      collection: 284433
+      name: Movies
+  Happy Feet Collection:
+    template:
+      collection: 92012
+      name: Movies
+  Harold & Kumar Collection:
+    template:
+      collection: 30663
+      name: Movies
+  Harry Potter Collection:
+    template:
+      collection: 1241
+      name: Movies
+  Has Fallen Collection:
+    template:
+      collection: 386534
+      name: Movies
+  Hellboy Collection:
+    template:
+      collection: 17235
+      name: Movies
+  Homeward Bound Collection:
+    template:
+      collection: 43058
+      name: Movies
+  Honey, I Shrunk the Kids Collection:
+    template:
+      collection: 72119
+      name: Movies
+  Horrible Bosses Collection:
+    template:
+      collection: 280588
+      name: Movies
+  Hot Shots! Collection:
+    template:
+      collection: 52988
+      name: Movies
+  Hot Tub Time Machine Collection:
+    template:
+      collection: 313576
+      name: Movies
+  Hotel Transylvania Collection:
+    template:
+      collection: 185103
+      name: Movies
+  How to Train Your Dragon Collection:
+    template:
+      collection: 89137
+      name: Movies
+  Ice Age Collection:
+    template:
+      collection: 8354
+      name: Movies
+  Independence Day Collection:
+    template:
+      collection: 304378
+      name: Movies
+  Indiana Jones Collection:
+    template:
+      collection: 84
+      name: Movies
+  Ip Man Collection:
+    template:
+      collection: 70068
+      name: Movies
+  Iron Man Collection:
+    template:
+      collection: 131292
+      name: Movies
+  It Collection:
+    template:
+      collection: 477962
+      name: Movies
+  Jack Reacher Collection:
+    template:
+      collection: 403374
+      name: Movies
+  James Bond Collection:
+    template:
+      collection: 645
+      name: Movies
+  Jaws Collection:
+    template:
+      collection: 2366
+      name: Movies
+  Jay and Silent Bob Collection:
+    template:
+      collection: 726870
+      name: Movies
+  John Wick Collection:
+    template:
+      collection: 404609
+      name: Movies
+  Jumanji Collection:
+    template:
+      collection: 495527
+      name: Movies
+  Jump Street Collection:
+    template:
+      collection: 212562
+      name: Movies
+  Jurassic Park Collection:
+    template:
+      collection: 328
+      name: Movies
+  Kick-Ass Collection:
+    template:
+      collection: 179892
+      name: Movies
+  Kill Bill Collection:
+    template:
+      collection: 2883
+      name: Movies
+  Kingsman Collection:
+    template:
+      collection: 391860
+      name: Movies
+  Kung Fu Panda Collection:
+    template:
+      collection: 77816
+      name: Movies
+  Lady and the Tramp Collection:
+    template:
+      collection: 97460
+      name: Movies
+  Legally Blonde Collection:
+    template:
+      collection: 86024
+      name: Movies
+  Mad Max Collection:
+    sort_title: Mad Max
+    template:
+      collection: 8945
+      name: Movies
+  Man of Steel Collection:
+    template:
+      collection: 209131
+      name: Movies
+  Marshal Samuel Gerard Collection:
+    template:
+      collection: 721111
+      name: Movies
+  Men in Black Collection:
+    template:
+      collection: 86055
+      name: Movies
+  Middle Earth Collection:
+    summary: A collection of movies and shows set in J.R.R. Tolkien's Middle Earth.
+    template:
+      collection: 119,121938
+      name: Movies
+  Mission Impossible Collection:
+    template:
+      collection: 87359
+      name: Movies
+  Monsterverse Collection:
+    collection_mode: hide
+    imdb_list: https://www.imdb.com/list/ls060980695/
+    summary: A collection of all the MonsterVerse movies.
+  Pirates of the Caribbean Collection:
+    template:
+      collection: 295
+      name: Movies
+  Planet of the Apes (Reboot) Collection:
+    template:
+      collection: 173710
+      name: Movies
+  Police Story Collection:
+    template:
+      collection: 269098
+      name: Movies
+  Predator Collection:
+    template:
+      collection: 399
+      name: Movies
+  Rambo Collection:
+    template:
+      collection: 5039
+      name: Movies
+  Rebuild of Evangelion Collection:
+    template:
+      collection: 210303
+      name: Movies
+  Rocky Collection:
+    template:
+      collection: 1575
+      name: Movies
+  Saw Collection:
+    template:
+      collection: 656
+      name: Movies
+  Scary Movie Collection:
+    template:
+      collection: 4246
+      name: Movies
+  Scream Collection:
+    template:
+      collection: 2602
+      name: Movies
+  Sharknado Collection:
+    template:
+      collection: 286023
+      name: Movies
+  Shrek Collection:
+    template:
+      collection: 2150
+      name: Movies
+  Spider-Man Collection:
+    summary: A collection of all the mainstream Spider-Man movies.
+    template:
+      collection: 556,125574,531241,573436
+      name: Movies
+  Star Trek Collection:
+    summary: Star Trek is an American science fiction media franchise originating from the 1960s television series Star Trek, created by Gene Roddenberry.
+    template:
+      collection: 151,115575,115570
+      name: Movies
+  Star Wars Collection:
+    template:
+      collection: 10
+      name: Movies
+  Superman Collection:
+    template:
+      collection: 8537
+      name: Movies
+  Taken Collection:
+    template:
+      collection: 135483
+      name: Movies
+  Taxi Collection:
+    template:
+      collection: 211721
+      name: Movies
+  Terminator Collection:
+    template:
+      collection: 528
+      name: Movies
+  The 28 Collection:
+    template:
+      collection: 1565
+      name: Movies
+  The Anchorman Collection:
+    template:
+      collection: 93791
+      name: Movies
+  The Angry Birds Collection:
+    template:
+      collection: 531315
+      name: Movies
+  The Avengers Collection:
+    template:
+      collection: 86311
+      name: Movies
+  The Boondock Saints Collection:
+    template:
+      collection: 87186
+      name: Movies
+  The Bourne Collection:
+    template:
+      collection: 31562
+      name: Movies
+  The Chronicles of Narnia Collection:
+    template:
+      collection: 420
+      name: Movies
+  The Chronicles of Riddick Collection:
+    template:
+      collection: 2794
+      name: Movies
+  The Dark Knight Collection:
+    sort_title: Dark Knight
+    template:
+      collection: 263
+      name: Movies
+  The Emperor's New Groove Collection:
+    template:
+      collection: 178117
+      name: Movies
+  The Equalizer Collection:
+    template:
+      collection: 523855
+      name: Movies
+  The Expendables Collection:
+    template:
+      collection: 126125
+      name: Movies
+  The Fast and the Furious Collection:
+    sort_title: Fast and the Furious
+    template:
+      collection: 9485
+      name: Movies
+  The Fox and the Hound Collection:
+    template:
+      collection: 100970
+      name: Movies
+  The Girl - Millennium Collection:
+    template:
+      collection: 575987
+      name: Movies
+  The Godfather Collection:
+    sort_title: Godfather
+    template:
+      collection: 230
+      name: Movies
+  The Gremlins Collection:
+    template:
+      collection: 89151
+      name: Movies
+  The Hangover Collection:
+    template:
+      collection: 86119
+      name: Movies
+  The Hannibal Lecter Collection:
+    template:
+      collection: 9743
+      name: Movies
+  The Hitman's Bodyguard Collection:
+    template:
+      collection: 608101
+      name: Movies
+  The Hobbit Collection:
+    sort_title: Hobbit
+    template:
+      collection: 121938
+      name: Movies
+  The Hocus Pocus Collection:
+    template:
+      collection: 751156
+      name: Movies
+  The Hunchback of Notre Dame Collection:
+    template:
+      collection: 97456
+      name: Movies
+  The Hunger Games Collection:
+    sort_title: Hunger Games
+    template:
+      collection: 131635
+      name: Movies
+  The Huntsman Collection:
+    template:
+      collection: 393379
+      name: Movies
+  The Incredibles Collection:
+    template:
+      collection: 468222
+      name: Movies
+  The Jack Ryan Collection:
+    template:
+      collection: 192492
+      name: Movies
+  The Jungle Book Collection:
+    template:
+      collection: 97459
+      name: Movies
+  The Karate Kid Collection:
+    sort_title: Karate Kid
+    template:
+      collection: 8580
+      name: Movies
+  The Land Before Time Collection:
+    sort_title: Land Before Time
+    template:
+      collection: 19163
+      name: Movies
+  The Lego Movie Collection:
+    template:
+      collection: 325470
+      name: Movies
+  The Lord of the Rings Collection:
+    sort_title: Lord of the Rings
+    template:
+      collection: 119
+      name: Movies
+  The Matrix Collection:
+    template:
+      collection: 2344
+      name: Movies
+      tmdb_movie: 55931
+  The Millennium Collection:
+    template:
+      collection: 24761
+      name: Movies
+  The Mummy Collection:
+    template:
+      collection: 1733
+      name: Movies
+  The Muppets Collection:
+    template:
+      collection: 256377
+      name: Movies
+  The Robert Langdon Collection:
+    template:
+      collection: 115776
+      name: Movies
+  The Shining Collection:
+    template:
+      collection: 530064
+      name: Movies
+  The Space Odyssey Series:
+    template:
+      collection: 4438
+      name: Movies
+  The Transporter Collection:
+    sort_title: Transporter
+    template:
+      collection: 9518
+      name: Movies
+  The Twilight Saga Collection:
+    sort_title: Twilight Saga
+    template:
+      collection: 33514
+      name: Movies
+  Thor Collection:
+    template:
+      collection: 10195
+      name: Movies
+  Tomb Raider Collection:
+    template:
+      collection: 2467
+      name: Movies
+  Transformers Collection:
+    template:
+      collection: 8650
+      name: Movies
+      tmdb_movie: 424783
+  Tremors Collection:
+    template:
+      collection: 91799
+      name: Movies
+  Unbreakable Collection:
+    template:
+      collection: 1011178
+      name: Movies
+  Wallace & Gromit Collection:
+    template:
+      collection: 529
+      name: Movies
+  Wizarding World Collection:
+    summary: A collection of all the Wizarding World movies, including the Harry Potter and Fantastic Beasts series.
+    template:
+      collection: 1241,435259
+      name: Movies
+  X-Men Collection:
+    template:
+      collection: 748,453993
+      name: Movies

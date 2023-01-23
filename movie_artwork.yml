@@ -1,0 +1,258 @@
+######################################################
+#                  Movie Metadata                    #
+######################################################
+metadata:
+  1271: #"300"
+    url_poster: https://theposterdb.com/api/assets/5576/view
+  "300: Rise of an Empire": 
+    url_poster: https://theposterdb.com/api/assets/5577/view
+  A Quiet Place:
+    url_poster: https://theposterdb.com/api/assets/160106/view
+  A Quiet Place Part II:
+    url_poster: https://theposterdb.com/api/assets/160107/view
+  "Ace Ventura: Pet Detective":
+    url_poster: https://theposterdb.com/api/assets/6613/view
+  "Ace Ventura: When Nature Calls":
+    url_poster: https://theposterdb.com/api/assets/6614/view
+  15338: #"Ace Ventura Jr: Pet Detective"
+    url_poster: https://theposterdb.com/api/assets/6615/view
+  True Lies:
+    url_poster: https://theposterdb.com/api/assets/73920/view
+  The Accidental Spy:
+    url_poster: https://theposterdb.com/api/assets/153580/view
+  The Addams Family:
+    url_poster: https://theposterdb.com/api/assets/53153/view
+  Addams Family Values:
+    url_poster: https://theposterdb.com/api/assets/53158/view
+  21 Jump Street:
+    url_poster: https://theposterdb.com/api/assets/7151/view
+  22 Jump Street:
+    url_poster: https://theposterdb.com/api/assets/7152/view
+  Airplane!:
+    url_poster: https://theposterdb.com/api/assets/36707/view
+  "Airplane II: The Sequel":
+    url_poster: https://theposterdb.com/api/assets/36708/view
+  28 Days Later:
+    url_poster: https://theposterdb.com/api/assets/2413/view
+  28 Weeks Later:
+    url_poster: https://theposterdb.com/api/assets/2414/view
+  420817: #Aladdin (2019)
+    url_poster: https://theposterdb.com/api/assets/44902/view
+  Aladdin:
+    url_poster: https://theposterdb.com/api/assets/43735/view
+  "Aladdin 2: The Return of Jafar":
+    url_poster: https://theposterdb.com/api/assets/43736/view
+  Aladdin and the King of Thieves:
+    url_poster: https://theposterdb.com/api/assets/43737/view
+  "2001: A Space Odyssey":
+    url_poster: https://theposterdb.com/api/assets/21636/view
+  "2010: The Year We Make Contact":
+    url_poster: https://theposterdb.com/api/assets/21637/view
+  12092: #Alice in Wonderland:
+    url_poster: https://theposterdb.com/api/assets/44908/view
+  12155: #Alice in Wonderland:
+    url_poster: https://theposterdb.com/api/assets/44911/view
+  Alice Through the Looking Glass:
+    url_poster: https://theposterdb.com/api/assets/44912/view
+  Alien: 
+    url_poster: https://theposterdb.com/api/assets/1214/view
+  Aliens: 
+    url_poster: https://theposterdb.com/api/assets/1215/view
+  Alien³: 
+    url_poster: https://theposterdb.com/api/assets/1216/view
+  Alien Resurrecction: 
+    url_poster: https://theposterdb.com/api/assets/1217/view
+  Alien Covenant:
+    url_poster: https://theposterdb.com/api/assets/1221/view
+  Prometheus:
+    url_poster: https://theposterdb.com/api/assets/1220/view
+  "Aliens vs Predator: Requiem":
+    url_poster: https://theposterdb.com/api/assets/1219/view
+  "AVP: Alien vs. Predator":
+    url_poster: https://theposterdb.com/api/assets/1218/view
+  Bruce Almighty:
+    url_poster: https://theposterdb.com/api/assets/51451/view
+  Evan Almighty:
+    url_poster: https://theposterdb.com/api/assets/51452/view
+  Alvin and the Chipmunks: 
+    url_poster: https://theposterdb.com/api/assets/23072/view
+  "Alvin and the Chipmunks: The Squeakquel":
+    url_poster: https://theposterdb.com/api/assets/23073/view
+  "Alvin and the Chipmunks: Chipwrecked":
+    url_poster: https://theposterdb.com/api/assets/23074/view
+  American Pie:
+    url_poster: https://theposterdb.com/api/assets/952/view
+  American Pie 2:
+    url_poster: https://theposterdb.com/api/assets/953/view
+  American Wedding:
+    url_poster: https://theposterdb.com/api/assets/954/view
+  American Reunion:
+    url_poster: https://theposterdb.com/api/assets/955/view
+  14: #American Beauty
+    url_poster: https://theposterdb.com/api/assets/25765/view
+  An American Werewolf in London:
+    url_poster: https://theposterdb.com/api/assets/18582/view
+  An American Werewolf in Paris:
+    url_poster: https://theposterdb.com/api/assets/3061/view
+  An American Tail:
+    url_poster: https://theposterdb.com/api/assets/106340/view
+  "An American Tail: Fievel Goes West":
+    url_poster: https://theposterdb.com/api/assets/106341/view
+  Ant-Man:
+    url_poster: https://theposterdb.com/api/assets/9786/view
+  Ant-Man and the Wasp:
+    url_poster: https://theposterdb.com/api/assets/9795/view
+  "Atlantis: The Lost Empire":
+    url_poster: https://theposterdb.com/api/assets/48046/view
+  "Atlantis: Milo's Return":
+    url_poster: https://theposterdb.com/api/assets/48047/view
+  Ant-Man and the Wasp:
+    url_poster: https://theposterdb.com/api/assets/9795/view
+  "Atlantis: The Lost Empire":
+    url_poster: https://theposterdb.com/api/assets/48046/view
+  "Atlantis: Milo's Return":
+    url_poster: https://theposterdb.com/api/assets/48047/view
+  "Austin Powers: International Man of Mystery":
+    url_poster: https://theposterdb.com/api/assets/13970/view
+  "Austin Powers: The Spy Who Shagged Me":
+    url_poster: https://theposterdb.com/api/assets/13971/view
+  "Austin Powers: Goldmember":
+    url_poster: https://theposterdb.com/api/assets/13972/view
+  Back to the Future:
+    url_poster: https://theposterdb.com/api/assets/63512/view
+  Back to the Future Part II:
+    url_poster: https://theposterdb.com/api/assets/63513/view
+  Back to the Future Part III:
+    url_poster: https://theposterdb.com/api/assets/63514/view
+  Bad Boys:
+    url_poster: https://theposterdb.com/api/assets/43042/view
+  Bad Boys II:
+    url_poster: https://theposterdb.com/api/assets/43043/view
+  Bad Boys for Life:
+    url_poster: https://theposterdb.com/api/assets/43044/view
+  Bad Moms:
+    url_poster: https://theposterdb.com/api/assets/37633/view
+  A Bad Moms Christmas:
+    url_poster: https://theposterdb.com/api/assets/37634/view
+  Bambi:
+    url_poster: https://theposterdb.com/api/assets/46874/view
+  "Bambi 2: The Great Prince of the Forest":
+    url_poster: https://theposterdb.com/api/assets/46875/view
+  Beverly Hills Cop:
+    url_poster: https://theposterdb.com/api/assets/45077/view
+  Beverly Hills Cop II:
+    url_poster: https://theposterdb.com/api/assets/45078/view
+  Beverly Hills Cop III:
+    url_poster: https://theposterdb.com/api/assets/45079/view
+  Bill & Ted's Bogus Journey:
+    url_poster: https://theposterdb.com/api/assets/98789/view
+  Bill & Ted Face the Music:
+    url_poster: https://theposterdb.com/api/assets/98790/view
+  Bill & Ted's Excellent Adventure:
+    url_poster: https://theposterdb.com/api/assets/45079/view
+  Blade:
+    url_poster: https://theposterdb.com/api/assets/12047/view
+  Blade II:
+    url_poster: https://theposterdb.com/api/assets/12048/view
+  "Blade: Trinity":
+    url_poster: https://theposterdb.com/api/assets/12049/view
+  Soldier:
+    url_poster: https://theposterdb.com/api/assets/111362/view
+  Blade Runner:
+    url_poster: https://theposterdb.com/api/assets/28343/view
+  "2036: Nexus Dawn":
+    url_poster: https://theposterdb.com/api/assets/110969/view
+  "2048: Nowhere to Run":
+    url_poster: https://theposterdb.com/api/assets/110970/view
+  "Blade Runner: Black Out 2022":
+    url_poster: https://theposterdb.com/api/assets/110971/view
+  Blade Runner 2049:
+    url_poster: https://theposterdb.com/api/assets/28344/view
+  "Borat":
+    url_poster: https://theposterdb.com/api/assets/107767/view
+  "Borat Subsequent Moviefilm":
+    url_poster: https://theposterdb.com/api/assets/107768/view
+  Brother Bear:
+    url_poster: https://theposterdb.com/api/assets/50184/view
+  Brother Bear 2:
+    url_poster: https://theposterdb.com/api/assets/50185/view
+  "Captain America: The First Avenger":
+    url_poster: https://theposterdb.com/api/assets/9778/view
+  "Captain America: The Winter Soldier":
+    url_poster: https://theposterdb.com/api/assets/9783/view
+  "Captain America: Civil War":
+    url_poster: https://theposterdb.com/api/assets/9787/view
+  Cars:
+    url_poster: https://theposterdb.com/api/assets/28786/view
+  Cars 2:
+    url_poster: https://theposterdb.com/api/assets/28787/view
+  Cars 3:
+    url_poster: https://theposterdb.com/api/assets/28788/view
+  Be Cool:
+    url_poster: https://theposterdb.com/api/assets/137286/view
+  Get Shorty:
+    url_poster: https://theposterdb.com/api/assets/137282/view
+  A Charlie Brown Christmas:
+    url_poster: https://theposterdb.com/api/assets/14724/view
+  It's the Great Pumpkin, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14726/view
+  A Boy Named Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14727/view
+  A Charlie Brown Thanksgiving:
+    url_poster: https://theposterdb.com/api/assets/14725/view
+  It's the Easter Beagle, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14738/view
+  Be My Valentine, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14734/view
+  Bon Voyage, Charlie Brown (and Don't Come Back!!):
+    url_poster: https://theposterdb.com/api/assets/14735/view
+  It's Magic, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14728/view
+  It's Flashbeagle, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14733/view
+  The Mayflower Voyagers:
+    url_poster: https://theposterdb.com/api/assets/14737/view
+  It's Christmastime Again, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14730/view
+  A Charlie Brown Valentine:
+    url_poster: https://theposterdb.com/api/assets/14731/view
+  Happiness Is a Warm Blanket, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14741/view
+  Race for Your Life, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14732/view
+  I Want a Dog for Christmas, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14740/view
+  Cinderella:
+    url_poster: https://theposterdb.com/api/assets/44919/view
+  "Cinderella II: Dreams Come True":
+    url_poster: https://theposterdb.com/api/assets/44920/view
+  "Cinderella 3: A Twist in Time":
+    url_poster: https://theposterdb.com/api/assets/28788/view
+  150689: #Cinderella (2015)
+    url_poster: https://theposterdb.com/api/assets/44921/view
+  City Slickers:
+    url_poster: https://theposterdb.com/api/assets/95270/view
+  "City Slickers II: The Legend of Curly's Gold":
+    url_poster: https://theposterdb.com/api/assets/95271/view
+  Clash of the Titans:
+    url_poster: https://theposterdb.com/api/assets/51675/view
+  Wrath of the Titans:
+    url_poster: https://theposterdb.com/api/assets/51676/view
+  Clerks:
+    url_poster: https://theposterdb.com/api/assets/275797/view
+  Clerks II:
+    url_poster: https://theposterdb.com/api/assets/275798/view
+  Clerks III:
+    url_poster: https://theposterdb.com/api/assets/275799/view
+  Cloudy with a Chance of Meatballs:
+    url_poster: https://theposterdb.com/api/assets/101249/view
+  Cloudy with a Chance of Meatballs 2:
+    url_poster: https://theposterdb.com/api/assets/101250/view
+  Crank:
+    url_poster: https://theposterdb.com/api/assets/168169/view
+  "Crank: High Voltage":
+    url_poster: https://theposterdb.com/api/assets/168170/view
+  Creed:
+    url_poster: https://theposterdb.com/api/assets/35115/view
+  Creed II:
+    url_poster: https://theposterdb.com/api/assets/35116/view
