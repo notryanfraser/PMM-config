@@ -300,152 +300,195 @@ collections:
       collection: 553717
       name: Movies
       tpdb_id: 35114
-  #----stopped here----#
   Daddy's Home Collection:
     template:
       collection: 473971
       name: Movies
+      tpdb_id: 14099
   Dead Snow Collection:
     template:
       collection: 286038
       name: Movies
+      tpdb_id: 66486
   Deadpool Collection:
     template:
       collection: 448150
       name: Movies
+      tpdb_id: 148779
   Despicable Me Collection:
     template:
       collection: 86066
       name: Movies
+      tpdb_id: 22035
   Die Hard Collection:
     sort_title: Die Hard
     template:
       collection: 1570
       name: Movies
+      tpdb_id: 719
   Divergent Collection:
     template:
       collection: 283579
       name: Movies
+      tpdb_id: 53782
   Doctor Strange Collection:
     template:
       collection: 618529
       name: Movies
+      tpdb_id: 263819
   Dragon Ball Collection:
-    template:
-      collection: /386410
-      name: Movies
-  Dragon Ball Super Collection:
     template:
       collection: 386410
       name: Movies
+      tpdb_id: 126817
+  Dragon Ball Super Collection:
+    template:
+      collection: 620873
+      name: Movies
+      tpdb_id: 126842
   Dragon Ball Z Collection:
     template:
       collection: 425164
       name: Movies
+      tpdb_id: 126823
   Drunken Master Collection:
     template:
       collection: 12203
       name: Movies
+      tpdb_id: 170408
   Dumb and Dumber Collection:
     template:
       collection: 96665
       name: Movies
+      tpdb_id: 12114
   Dune Collection:
     template:
       collection: 726871
       name: Movies
+      tpdb_id: 197348
   Escape From ... Collection:
     template:
       collection: 10061
       name: Movies
+      tpdb_id: 96947
+  Evangelion Collection:
+    template:
+      collection: 96850
+      name: Movies
+      tpdb_id: 108404
   Evil Dead Collection:
     template:
       collection: 1960
       name: Movies
+      tmdb_movie: 109428,713704
+      tpdb_id: 7075
   Fantasia Collection:
     template:
       collection: 55427
       name: Movies
+      tpdb_id: 130368
   Fantastic Beasts Collection:
     template:
       collection: 435259
       name: Movies
+      tpdb_id: 169
   Fantastic Four Collection:
     template:
       collection: 9744
       name: Movies
+      tmdb_movie: 166424
+      tpdb_id: 287598
   Father of the Bride Collection:
     template:
       collection: 96871
       name: Movies
-  Final Destination Collection:
-    template:
-      collection: 8864
-      name: Movies
+      tpdb_id: 129917
   Finding Nemo Collection:
     template:
       collection: 137697
       name: Movies
+      tpdb_id: 28690
   Friday Collection:
     template:
       collection: 43563
       name: Movies
+      tpdb_id: 28461
   Frozen Collection:
     template:
       collection: 386382
       name: Movies
+      tpdb_id: 30788
   G.I. Joe Collection:
     template:
       collection: 135468
       name: Movies
+      tpdb_id: 39499
   Ghost in the Shell (Animated) Collection:
     template:
       collection: 23026
       name: Movies
+      tmdb_movie: 14092
+      tpdb_id: 175259
   Ghost in the Shell Arise Collection:
     template:
       collection: 196753
       name: Movies
+      tpdb_id: 175263
   Ghost in the Shell SAC Collection:
     template:
       collection: 443996
       name: Movies
+      tpdb_id: 175270
   Ghostbusters Collection:
     template:
       collection: 2980
       name: Movies
+      tpdb_id: 203163
+  Gnomeo & Juliet Collection Collection:
+    template:
+      collection: 493668
+      name: Movies
+      tpdb_id: 181001
   Goosebumps Collection:
     template:
       collection: 508783
       name: Movies
+      tpdb_id: 160208
   Guardians of the Galaxy Collection:
     template:
       collection: 284433
       name: Movies
+      tpdb_id: 4815
   Happy Feet Collection:
     template:
       collection: 92012
       name: Movies
+      tpdb_id: 5322
   Harold & Kumar Collection:
     template:
       collection: 30663
       name: Movies
+      tpdb_id: 33852
   Harry Potter Collection:
     template:
       collection: 1241
       name: Movies
+      tpdb_id: 27577
   Has Fallen Collection:
     template:
       collection: 386534
       name: Movies
+      tpdb_id: 29972
   Hellboy Collection:
     template:
       collection: 17235
       name: Movies
+      tpdb_id: 11245
   Homeward Bound Collection:
     template:
       collection: 43058
       name: Movies
+      tpdb_id: 84621
   Honey, I Shrunk the Kids Collection:
     template:
       collection: 72119
@@ -604,6 +647,7 @@ collections:
     template:
       collection: 210303
       name: Movies
+      tpdb_id: 168847
   Rocky Collection:
     template:
       collection: 1575
@@ -662,6 +706,7 @@ collections:
     template:
       collection: 1565
       name: Movies
+      tpdb_id: 38148
   The Anchorman Collection:
     template:
       collection: 93791
@@ -695,6 +740,7 @@ collections:
     template:
       collection: 263
       name: Movies
+      tpdb_id: 44451
   The Emperor's New Groove Collection:
     template:
       collection: 178117
@@ -712,6 +758,8 @@ collections:
     template:
       collection: 9485
       name: Movies
+      tmdb_movie: 384018
+      tpdb_id: 166162
   The Fox and the Hound Collection:
     template:
       collection: 100970
@@ -721,11 +769,13 @@ collections:
       collection: 575987
       name: Movies
   The Godfather Collection:
-    sort_title: Godfather
+    sort_title: Godfather Collection
     template:
       collection: 230
       name: Movies
+      tpdb_id: 8934
   The Gremlins Collection:
+    sort_title: Gremlins Collection
     template:
       collection: 89151
       name: Movies
@@ -746,6 +796,7 @@ collections:
     template:
       collection: 121938
       name: Movies
+      tpdb_id: 191452
   The Hocus Pocus Collection:
     template:
       collection: 751156
@@ -794,6 +845,7 @@ collections:
     template:
       collection: 119
       name: Movies
+      tpdb_id: 191453
   The Matrix Collection:
     template:
       collection: 2344
