@@ -493,98 +493,138 @@ collections:
     template:
       collection: 72119
       name: Movies
+      tpdb_id: 27434
   Horrible Bosses Collection:
     template:
       collection: 280588
       name: Movies
+      tpdb_id: 41514
   Hot Shots! Collection:
     template:
       collection: 52988
       name: Movies
+      tpdb_id: 63700
   Hot Tub Time Machine Collection:
     template:
       collection: 313576
       name: Movies
+      tpdb_id: 26837
   Hotel Transylvania Collection:
     template:
       collection: 185103
       name: Movies
+      tpdb_id: 100177
   How to Train Your Dragon Collection:
     template:
       collection: 89137
       name: Movies
+      tpdb_id: 27752
+  The Hunger Games Collection:
+    template:
+      collection: 131635
+      name: Movies
+      tpdb_id: 31012
   Ice Age Collection:
     template:
       collection: 8354
       name: Movies
+      tpdb_id: 42959
+  The Incredibles Collection: 
+    template:
+      collection: 468222
+      name: Movies
+      tpdb_id: 28676
   Independence Day Collection:
     template:
       collection: 304378
       name: Movies
+      tpdb_id: 68261
   Indiana Jones Collection:
     template:
       collection: 84
       name: Movies
+      tpdb_id: 53303
   Ip Man Collection:
     template:
       collection: 70068
       name: Movies
+      tmdb_movie: 450001,44249,44865,182127,658009
+      tpdb_id: 52647
   Iron Man Collection:
     template:
       collection: 131292
       name: Movies
+      tpdb_id: 4817
   It Collection:
     template:
       collection: 477962
       name: Movies
+      tpdb_id: 164504
   Jack Reacher Collection:
     template:
       collection: 403374
       name: Movies
+      tpdb_id: 112598
   James Bond Collection:
     template:
       collection: 645
       name: Movies
+      tpdb_id: 24922
   Jaws Collection:
     template:
       collection: 2366
       name: Movies
+      tpdb_id: 3455
   Jay and Silent Bob Collection:
     template:
       collection: 726870
       name: Movies
+      tpdb_id: 288581
   John Wick Collection:
     template:
       collection: 404609
       name: Movies
+      tpdb_id: 20710
   Jumanji Collection:
     template:
       collection: 495527
       name: Movies
+      tpdb_id: 48909
   Jump Street Collection:
     template:
       collection: 212562
       name: Movies
+      tpdb_id: 32498
   Jurassic Park Collection:
     template:
       collection: 328
       name: Movies
+      tpdb_id: 158968
   Kick-Ass Collection:
     template:
       collection: 179892
       name: Movies
+      tpdb_id: 9885
   Kill Bill Collection:
     template:
       collection: 2883
       name: Movies
+      tpdb_id: 63400
   Kingsman Collection:
     template:
       collection: 391860
       name: Movies
+      tpdb_id: 50362
+  Knives Out Collection:
+    template:
+      collection: 722971
+      name: Movies
+      tpdb_id: 292236
   Kung Fu Panda Collection:
     template:
       collection: 77816
       name: Movies
+      tpdb_id: 27734
   Lady and the Tramp Collection:
     template:
       collection: 97460
@@ -610,11 +650,12 @@ collections:
     template:
       collection: 86055
       name: Movies
-  Middle Earth Collection:
+  Middle-Earth Collection:
     summary: A collection of movies and shows set in J.R.R. Tolkien's Middle Earth.
     template:
       collection: 119,121938
       name: Movies
+      tpdb_id: 191460
   Mission Impossible Collection:
     template:
       collection: 87359
@@ -831,6 +872,8 @@ collections:
     template:
       collection: 8580
       name: Movies
+      tmdb_movie: 38575
+      tpdb_id: 65189
   The Land Before Time Collection:
     sort_title: Land Before Time
     template:
