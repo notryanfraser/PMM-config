@@ -123,6 +123,7 @@ collections:
     template:
       collection: 11716
       name: Movies
+      tmdb_movie: 639721,481084
       tpdb_id: 53152
   Airplane Collection:
     template:
@@ -163,14 +164,14 @@ collections:
       name: Movies
       tpdb_id: 951
   An American Tail Collection:
+    sort_title: American Tail Collection
     template:
-      sort_title: American Tail Collection
       collection: 8783
       name: Movies
       tpdb_id: 106339
   An American Werewolf Collection:
+    sort_title: American Werewolf Collection
     template:
-      sort_title: American Werewolf Collection
       collection: 9380
       name: Movies
       tpdb_id: 18581
@@ -213,6 +214,12 @@ collections:
       collection: 87250
       name: Movies
       tpdb_id: 46873
+  Beauty and the Beast Collection:
+    template:
+      collection: 153010
+      name: Movies
+      tmdb_movie: 321612
+      tpdb_id: 44913
   Beverly Hills Cop Collection:
     template:
       collection: 85861
@@ -290,6 +297,18 @@ collections:
       collection: 177467
       name: Movies
       tpdb_id: 101248
+  The Cloverfield Collection:
+    sort_title: Cloverfield Collection
+    template:
+      name: Movies
+      summary: Cloverfield is an American science fiction anthology film series and media franchise created and produced by J. J. Abrams consisting of various films, all set in a shared fictional universe referred to as the "Cloververse". The franchise deals with creatures from other dimensions attacking Earth throughout different decades, all as a repercussion of an experiment by an astronaut team aboard the Cloverfield Station in outer space. Each film depicts the reality-altering effects of their study, meant to find a new energy source replacing the planet's dep1ed resources, only to open portals for assault from various beasts from deep space.
+      tmdb_movie: 384521,7191,333371
+      tpdb_id: 13926
+  Conan the Barbarian Collection:
+    template:
+      collection: 43055
+      name: Movies
+      tpdb_id: 65624
   Crank Collection:
     template:
       collection: 64751
@@ -484,6 +503,11 @@ collections:
       collection: 17235
       name: Movies
       tpdb_id: 11245
+  Home Alone Collection:
+    template:
+      collection: 9888
+      name: Movies
+      tpdb_id: 110729
   Homeward Bound Collection:
     template:
       collection: 43058
@@ -528,6 +552,7 @@ collections:
     template:
       collection: 8354
       name: Movies
+      tmdb_movie: 79218
       tpdb_id: 42959
   The Incredibles Collection: 
     template:
@@ -569,7 +594,8 @@ collections:
     template:
       collection: 645
       name: Movies
-      tpdb_id: 24922
+      tmdb_movie: 12208
+      tpdb_id: 134668
   Jaws Collection:
     template:
       collection: 2366
@@ -629,41 +655,176 @@ collections:
     template:
       collection: 97460
       name: Movies
+      tpdb_id: 44948
   Legally Blonde Collection:
     template:
       collection: 86024
       name: Movies
+      tpdb_id: 14286
+  Legally Blonde Collection:
+    template:
+      collection: 86024
+      name: Movies
+      tpdb_id: 14286
+  Lethal Weapon Collection:
+    template:
+      collection: 945
+      name: Movies
+      tpdb_id: 128320
+  Lilo & Stitch Collection:
+    template:
+      collection: 97461
+      name: Movies
+      tpdb_id: 48065
+  Living Dead Collection:
+    template:
+      collection: 261590
+      name: Movies
+      tpdb_id: 48065
+  Lucky Stars Collection:
+    template:
+      collection: 300431
+      name: Movies
+      tpdb_id: 78888
+  Machete Collection:
+    template:
+      collection: 210006
+      name: Movies
+      tpdb_id: 42911
   Mad Max Collection:
     sort_title: Mad Max
     template:
       collection: 8945
       name: Movies
+      tpdb_id: 8317
+  Madagascar Collection:
+    sort_title: Mad Max
+    template:
+      collection: 8945
+      name: Movies
+      tmdb_movie: 270946
+      tpdb_id: 27746
+  Maleficent Collection:
+    sort_title: Mad Max
+    template:
+      collection: 531331
+      name: Movies
+      tpdb_id: 44938
   Man of Steel Collection:
     template:
       collection: 209131
       name: Movies
+      tpdb_id: 74681
+  Mariachi Collection:
+    template:
+      collection: 9649
+      name: Movies
+      tpdb_id: 214461
   Marshal Samuel Gerard Collection:
     template:
       collection: 721111
       name: Movies
+  Marry Poppins Collection:
+    template:
+      collection: 721111
+      name: Movies
+      tpdb_id: 53733
+  Mechanic Collection:
+    template:
+      collection: 280504
+      name: Movies
+      tpdb_id: 84261
+  Meet the Parents Collection:
+    template:
+      collection: 51509
+      name: Movies
+      tpdb_id: 35566
   Men in Black Collection:
     template:
       collection: 86055
+      tmdb_movie: 479455
       name: Movies
+      tpdb_id: 16550
   Middle-Earth Collection:
     summary: A collection of movies and shows set in J.R.R. Tolkien's Middle Earth.
     template:
       collection: 119,121938
       name: Movies
       tpdb_id: 191460
+  Minions Collection: 
+    template:
+      collection: 544669
+      name: Movies
+      tmdb_movie: 764079
+      tpdb_id: 27388
+  Miss Congeniality Collection:
+    template:
+      collection: 93220
+      name: Movies
+      tpdb_id: 216995
   Mission Impossible Collection:
     template:
       collection: 87359
       name: Movies
+      tpdb_id: 11546
+  Monsters, Inc. Collection:
+    template:
+      collection: 137696
+      name: Movies
+      tpdb_id: 29352
   Monsterverse Collection:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls060980695/
-    summary: A collection of all the MonsterVerse movies.
+    summary: The MonsterVerse is an American multimedia franchise and shared fictional universe that is centered on a series of monster films featuring Godzilla and King Kong.
+    url_poster: https://theposterdb.com/api/assets/16640/view
+  Mulan Collection:
+    template:
+      collection: 87236
+      name: Movies
+      tmdb_movie: 337401
+      tpdb_id: 46221
+  My Big Fat Greek Wedding Collection:
+    template:
+      collection: 389767
+      name: Movies
+      tpdb_id: 223746
+  Naked Gun Collection:
+    template:
+      collection: 108693
+      name: Movies
+      tpdb_id: 64375
+  National Lampoon's Vacation Collection:
+    template:
+      collection: 37139
+      name: Movies
+      tpdb_id: 72881
+  National Treasure Collection:
+    template:
+      collection: 52984
+      name: Movies
+      tpdb_id: 60423
+  Neighbors Collection:
+    template:
+      collection: 85943
+      name: Movies
+      tpdb_id: 85943
+  Night at the Museum Collection:
+    template:
+      collection: 400700
+      name: Movies
+      tmdb_movie: 751741
+      tpdb_id: 864
+  Now You See Me Collection:
+    template:
+      collection: 382685
+      name: Movies
+      tpdb_id: 5021
+  Ocean's Collection:
+    template:
+      collection: 304
+      name: Movies
+      tmdb_movie: 402900
+      tpdb_id: 64818
   Pirates of the Caribbean Collection:
     template:
       collection: 295
@@ -753,6 +914,7 @@ collections:
       collection: 93791
       name: Movies
   The Angry Birds Collection:
+    sort_title: Angry Birds Collection
     template:
       collection: 531315
       name: Movies
@@ -879,6 +1041,7 @@ collections:
     template:
       collection: 19163
       name: Movies
+      tpdb_id: 105457
   The Lego Movie Collection:
     template:
       collection: 325470
