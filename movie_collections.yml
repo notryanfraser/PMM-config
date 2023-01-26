@@ -555,6 +555,7 @@ collections:
       tmdb_movie: 79218
       tpdb_id: 42959
   The Incredibles Collection: 
+    sort_title: Incredibles Collection
     template:
       collection: 468222
       name: Movies
@@ -1068,54 +1069,72 @@ collections:
       name: Movies
       tpdb_id: 4816
   The Boondock Saints Collection:
+    sort_title: Boondock Saints Collection
     template:
       collection: 87186
       name: Movies
+      tpdb_id: 109148
   The Bourne Collection:
+    sort_title: Bourne Collection
     template:
       collection: 31562
       name: Movies
+      tpdb_id: 5420
   The Chronicles of Narnia Collection:
+    sort_title: Chronicles of Narnia Collection
     template:
       collection: 420
       name: Movies
+      tpdb_id: 86941
   The Chronicles of Riddick Collection:
+    sort_title: Chronicles of Riddick Collection
     template:
       collection: 2794
       name: Movies
+      tpdb_id: 1011
   The Dark Knight Collection:
-    sort_title: Dark Knight
+    sort_title: Dark Knight Collection
     template:
       collection: 263
       name: Movies
       tpdb_id: 44451
   The Emperor's New Groove Collection:
+    sort_title: Emperor's New Groove Collection
     template:
       collection: 178117
       name: Movies
+      tpdb_id: 46820
   The Equalizer Collection:
+    sort_title: Equalizer Collection
     template:
       collection: 523855
       name: Movies
+      tpdb_id: 37023
   The Expendables Collection:
+    sort_title: Expendables Collection
     template:
       collection: 126125
       name: Movies
+      tpdb_id: 4832
   The Fast and the Furious Collection:
-    sort_title: Fast and the Furious
+    sort_title: Fast and the Furious Collection
     template:
       collection: 9485
       name: Movies
       tmdb_movie: 384018
       tpdb_id: 166162
   The Fox and the Hound Collection:
+    sort_title: Fox and the Hound Collection
     template:
       collection: 100970
       name: Movies
+      tpdb_id: 78286
   The Girl - Millennium Collection:
+    sort_title: Girl - Millennium Collection
     template:
       collection: 575987
       name: Movies
+      tpdb_id: 58908
   The Godfather Collection:
     sort_title: Godfather Collection
     template:
@@ -1127,93 +1146,145 @@ collections:
     template:
       collection: 89151
       name: Movies
+      tpdb_id: 21149
   The Hangover Collection:
+    sort_title: Hangover Collection
     template:
       collection: 86119
       name: Movies
+      tpdb_id: 945
   The Hannibal Lecter Collection:
+    sort_title: Hannibal Lecter Collection
     template:
       collection: 9743
       name: Movies
+      tmdb_movie: 1248
+      tpdb_id: 57809
   The Hitman's Bodyguard Collection:
+    sort_title: Hitman's Bodyguard Collection
     template:
       collection: 608101
       name: Movies
+      tpdb_id: 160629
   The Hobbit Collection:
-    sort_title: Hobbit
+    sort_title: Hobbit Collection
     template:
       collection: 121938
       name: Movies
       tpdb_id: 191452
-  The Hocus Pocus Collection:
+  Hocus Pocus Collection:
     template:
       collection: 751156
       name: Movies
+      tpdb_id: 270908
   The Hunchback of Notre Dame Collection:
+    sort_title: Hunchback of Notre Dame Collection
     template:
       collection: 97456
       name: Movies
+      tpdb_id: 78825
   The Hunger Games Collection:
-    sort_title: Hunger Games
+    sort_title: Hunger Games Collection
     template:
       collection: 131635
       name: Movies
   The Huntsman Collection:
+    sort_title: Huntsman Collection
     template:
       collection: 393379
       name: Movies
-  The Incredibles Collection:
-    template:
-      collection: 468222
-      name: Movies
+      tpdb_id: 54036
   The Jack Ryan Collection:
+    sort_title: Jack Ryan Collection
     template:
       collection: 192492
       name: Movies
+      tmdb_movie: 4614,137094
+      tpdb_id: 150531
   The Jungle Book Collection:
+    sort_title: Jungle Book Collection
     template:
       collection: 97459
       name: Movies
+      tmdb_movie: 278927
+      tpdb_id: 44926
   The Karate Kid Collection:
-    sort_title: Karate Kid
+    sort_title: Karate Kid Collection
     template:
       collection: 8580
       name: Movies
       tmdb_movie: 38575
       tpdb_id: 65189
   The Land Before Time Collection:
-    sort_title: Land Before Time
+    sort_title: Land Before Time Collection
     template:
       collection: 19163
       name: Movies
       tpdb_id: 105457
   The Lego Movie Collection:
+    sort_title: Lego Movie Collection
     template:
       collection: 325470
       name: Movies
+      tmdb_movie: 324849,274862
+      tpdb_id: 99631
+  The Lion King Collection:
+    sort_title: Lion King Collection
+    template:
+      collection: 94032
+      name: Movies
+      tmdb_movie: 420818
+      tpdb_id: 33578
+  The Little Mermaid Collection:
+    sort_title: Little Mermaid Collection
+    template:
+      collection: 33085
+      name: Movies
+      tpdb_id: 46804
   The Lord of the Rings Collection:
-    sort_title: Lord of the Rings
+    sort_title: Lord of the Rings Collection
     template:
       collection: 119
       name: Movies
       tpdb_id: 191453
   The Matrix Collection:
+    sort_title: Matrix Collection
     template:
       collection: 2344
       name: Movies
       tmdb_movie: 55931
+      tpdb_id: 16561
+  The Maze Runner Collection:
+    sort_title: Maze Runner Collection
+    template:
+      collection: 295130
+      name: Movies
+      tpdb_id: 174
+  The Mighty Ducks Collection:
+    sort_title: Mighty Ducks Collection
+    template:
+      collection: 10709
+      name: Movies
+      tpdb_id: 15472
   The Millennium Collection:
+    sort_title: Millennium Collection
     template:
       collection: 24761
       name: Movies
+      tpdb_id: 87824
   The Mummy Collection:
+    sort_title: Mummy Collection
     template:
       collection: 1733
       name: Movies
+      tpdb_id: 1041
   The Muppets Collection:
+    sort_title: Muppets Collection
     template:
       collection: 256377
       name: Movies
+      tmdb_movie: 64328,145220,826914,13352
+      tpdb_id: 13696
   The Robert Langdon Collection:
     template:
       collection: 115776
