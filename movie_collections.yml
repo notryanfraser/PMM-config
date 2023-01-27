@@ -27,7 +27,7 @@ templates:
     tmdb_collection_details: <<collection>>
     tmdb_movie: <<tmdb_movie>>
     tmdb_list: <<tmdb_list>>
-    url_upload: https://theposterdb.com/api/assets/<<tpdb_id>>/view
+    url_poster: https://theposterdb.com/api/assets/<<tpdb_id>>/view
     sort_title: <<collection_name>>
     collection_order: release
     collection_mode: hide
@@ -75,22 +75,22 @@ collections:
     template: { name: Chart, num: 5 }
     imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
     summary: Oscar Winning Movies
-  Best of 2014:
-    template: { name: Best of, year: 2014 }
-  Best of 2015:
-    template: { name: Best of, year: 2015 }
-  Best of 2016:
-    template: { name: Best of, year: 2016 }
-  Best of 2017:
-    template: { name: Best of, year: 2017 }
-  Best of 2018:
-    template: { name: Best of, year: 2018 }
-  Best of 2019:
-    template: { name: Best of, year: 2019 }
-  Best of 2020:
-    template: { name: Best of, year: 2020 }
-  Best of 2021:
-    template: { name: Best of, year: 2021 }
+  #Best of 2014:
+    #template: { name: Best of, year: 2014 }
+  #Best of 2015:
+    #template: { name: Best of, year: 2015 }
+  #Best of 2016:
+    #template: { name: Best of, year: 2016 }
+  #Best of 2017:
+    #template: { name: Best of, year: 2017 }
+  #Best of 2018:
+    #template: { name: Best of, year: 2018 }
+  #Best of 2019:
+    #template: { name: Best of, year: 2019 }
+  #Best of 2020:
+    #template: { name: Best of, year: 2020 }
+  #Best of 2021:
+    #template: { name: Best of, year: 2021 }
 
   300 Collection:
     template:
@@ -544,6 +544,7 @@ collections:
       name: Movies
       tpdb_id: 27752
   The Hunger Games Collection:
+    sort_title: Hunger Games Collection
     template:
       collection: 131635
       name: Movies
@@ -662,11 +663,6 @@ collections:
       collection: 86024
       name: Movies
       tpdb_id: 14286
-  Legally Blonde Collection:
-    template:
-      collection: 86024
-      name: Movies
-      tpdb_id: 14286
   Lethal Weapon Collection:
     template:
       collection: 945
@@ -681,7 +677,7 @@ collections:
     template:
       collection: 261590
       name: Movies
-      tpdb_id: 48065
+      tpdb_id: 60043
   Lucky Stars Collection:
     template:
       collection: 300431
@@ -789,32 +785,32 @@ collections:
       collection: 389767
       name: Movies
       tpdb_id: 223746
-  Naked Gun Collection:
+  National Lampoon's Vacation Collection:
     template:
       collection: 108693
       name: Movies
-      tpdb_id: 64375
-  National Lampoon's Vacation Collection:
+      tpdb_id: 60423
+  Naked Gun Collection:
     template:
       collection: 37139
       name: Movies
-      tpdb_id: 72881
+      tpdb_id: 64375
   National Treasure Collection:
     template:
       collection: 52984
       name: Movies
-      tpdb_id: 60423
-  Neighbors Collection:
+      tpdb_id: 72881
+  Night at the Museum Collection:
     template:
       collection: 85943
       name: Movies
-      tpdb_id: 85943
-  Night at the Museum Collection:
+      tmdb_movie: 751741
+      tpdb_id: 864
+  Neighbors Collection:
     template:
       collection: 400700
       name: Movies
-      tmdb_movie: 751741
-      tpdb_id: 864
+      tpdb_id: 92862
   Now You See Me Collection:
     template:
       collection: 382685
@@ -904,12 +900,12 @@ collections:
     template:
       collection: 376650
       name: Movies
-      tpdb_id: 42960
+      tpdb_id: 19299
   Rio Collection:
     template:
       collection: 229932
       name: Movies
-      tpdb_id: 19299
+      tpdb_id: 42960
   Rocky Collection:
     template:
       collection: 1575
@@ -940,7 +936,7 @@ collections:
     template:
       collection: 102322
       name: Movies
-      tpdb_id: 106517
+      tpdb_id: 2623
   Short Circuit Collection:
     template:
       collection: 86347
@@ -1183,11 +1179,6 @@ collections:
       collection: 97456
       name: Movies
       tpdb_id: 78825
-  The Hunger Games Collection:
-    sort_title: Hunger Games Collection
-    template:
-      collection: 131635
-      name: Movies
   The Huntsman Collection:
     sort_title: Huntsman Collection
     template:
