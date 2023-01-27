@@ -1234,7 +1234,7 @@ collections:
       collection: 94032
       name: Movies
       tmdb_movie: 420818
-      tpdb_id: 33578
+      tpdb_id: 46454
   The Little Mermaid Collection:
     sort_title: Little Mermaid Collection
     template:
@@ -1285,23 +1285,66 @@ collections:
       name: Movies
       tmdb_movie: 64328,145220,826914,13352
       tpdb_id: 13696
+  The Rescuers Collection:
+    sort_title: Rescuers Collection
+    template:
+      collection: 57971
+      name: Movies
+      tpdb_id: 129502 
   The Robert Langdon Collection:
+    sort_title: Robert Langdon Collection
     template:
       collection: 115776
       name: Movies
+      tpdb_id: 841
+  The Secret Life of Pets Collection:
+    sort_title: Secret Life of Pets Collection
+    template:
+      collection: 427084
+      name: Movies
+      tpdb_id: 22476
   The Shining Collection:
+    sort_title: Shining Collection
     template:
       collection: 530064
       name: Movies
+      tpdb_id: 23729
+  The Smurfs Collection:
+    sort_title: Smurfs Collection
+    template:
+      collection: 134897
+      name: Movies
+      tpdb_id: 100774
   The Space Odyssey Series:
+    sort_title: Space Odyssey Series
     template:
       collection: 4438
       name: Movies
+      tpdb_id: 21635
+  The Thing Collection:
+    sort_title: Thing Collection
+    template:
+      collection: 479888
+      name: Movies
+      tpdb_id: 95450
+  The Wolverine Collection:
+    sort_title: Wolverine Collection
+    template:
+      collection: 453993
+      name: Movies
+      tpdb_id: 32350
   The Transporter Collection:
-    sort_title: Transporter
+    sort_title: Transporter Collection
     template:
       collection: 9518
       name: Movies
+      tpdb_id: 69471
+  The X Files Collection:
+    sort_title: XFiles Collection
+    template:
+      collection: 19387
+      name: Movies
+      tpdb_id: 160391
   The Twilight Saga Collection:
     sort_title: Twilight Saga
     template:
@@ -1311,33 +1354,116 @@ collections:
     template:
       collection: 10195
       name: Movies
+      tpdb_id: 4819
+  Tinker Bell Collection:
+    template:
+      collection: 315595
+      name: Movies
+      tpdb_id: 31538
   Tomb Raider Collection:
     template:
       collection: 2467
       name: Movies
+      tmdb_movie: 338970
+      tpdb_id: 73151
+  Top Gun Collection:
+    template:
+      collection: 531330
+      name: Movies
+      tpdb_id: 251518
+  Toy Story Collection:
+    template:
+      collection: 10194
+      name: Movies
+      tpdb_id: 28545
+  Train to Busan Collection:
+    template:
+      collection: 619537
+      name: Movies
+      tmdb_movie: 389868
+      tpdb_id: 82793
+  Trainspotting Collection:
+    template:
+      collection: 424202
+      name: Movies
+      tpdb_id: 157702
   Transformers Collection:
     template:
       collection: 8650
       name: Movies
       tmdb_movie: 424783
+      tpdb_id: 87454
   Tremors Collection:
     template:
       collection: 91799
       name: Movies
-  Unbreakable Collection:
+      tpdb_id: 107247
+  TRON Collection:
     template:
-      collection: 1011178
+      collection: 63043
       name: Movies
+      tpdb_id: 6984
+  Eastrail 177 Collection:
+    collection_mode: hide
+    imdb_list: https://www.imdb.com/list/ls024083258/
+    summary: The Unbreakable trilogy, also known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series. The films were written, produced, and directed by M. Night Shyamalan. The trilogy consists of Unbreakable (2000), Split (2016), and Glass (2019).
+    url_upload: https://theposterdb.com/poster/17577
+  Underworld Collection:
+    template:
+      collection: 2326
+      name: Movies
+      tmdb_movie: 161337
+      tpdb_id: 74996
+  Venom Collection:
+    template:
+      collection: 558216
+      name: Movies
+      tpdb_id: 283568
   Wallace & Gromit Collection:
     template:
       collection: 529
       name: Movies
+      tmdb_movie: 533
+      tpdb_id: 137906
+  Wayne's World Collection:
+    template:
+      collection: 8979
+      name: Movies
+      tpdb_id: 68154
   Wizarding World Collection:
     summary: A collection of all the Wizarding World movies, including the Harry Potter and Fantastic Beasts series.
     template:
       collection: 1241,435259
       name: Movies
+      tpdb_id: 1634
+  Wonder Woman Collection:
+    template:
+      collection: 468552
+      name: Movies
+      tpdb_id: 140748
+  Wreck-It Ralph Collection:
+    template:
+      collection: 404825
+      name: Movies
+      tpdb_id: 31281
   X-Men Collection:
     template:
-      collection: 748,453993
+      collection: 748,453993,448150
       name: Movies
+      tmdb_movie: 340102
+      tpdb_id: 214
+  Young Guns Collection:
+    template:
+      collection: 9329
+      name: Movies
+      tpdb_id: 153377
+  Zombieland Collection:
+    template:
+      collection: 537982
+      name: Movies
+      tpdb_id: 36532
+  Zoolander Collection:
+    template:
+      collection: 352789
+      name: Movies
+      tpdb_id: 228812
