@@ -689,15 +689,13 @@ collections:
       name: Movies
       tpdb_id: 42911
   Mad Max Collection:
-    sort_title: Mad Max
     template:
       collection: 8945
       name: Movies
       tpdb_id: 8317
   Madagascar Collection:
-    sort_title: Mad Max
     template:
-      collection: 8945
+      collection: 14740
       name: Movies
       tmdb_movie: 270946
       tpdb_id: 27746
@@ -723,7 +721,7 @@ collections:
       name: Movies
   Marry Poppins Collection:
     template:
-      collection: 721111
+      collection: 527439
       name: Movies
       tpdb_id: 53733
   Mechanic Collection:
