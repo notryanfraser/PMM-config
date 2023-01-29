@@ -878,7 +878,7 @@ collections:
     template:
       collection: 5039
       name: Movies
-      tpdb_id: 
+      tpdb_id: 2611
   Rebuild of Evangelion Collection:
     template:
       collection: 210303
@@ -1272,7 +1272,7 @@ collections:
     template:
       collection: 256377
       name: Movies
-      tmdb_movie: 64328,145220,826914,13352
+      tmdb_movie: 826914,13352,10208,10874,10437,13247,11176,11899,14900,20910
       tpdb_id: 13696
   The Rescuers Collection:
     sort_title: Rescuers Collection
@@ -1456,3 +1456,9 @@ collections:
       collection: 352789
       name: Movies
       tpdb_id: 228812
+  Three Men Collection:
+    template:
+      collection: 107688
+      name: Movies
+      tpdb_id: 220470
+      
