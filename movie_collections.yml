@@ -92,6 +92,7 @@ collections:
   #Best of 2021:
     #template: { name: Best of, year: 2021 }
 
+A:
   101 Dalmatians Collection:
     template:
       collection: 100693,124916
@@ -854,23 +855,11 @@ collections:
       collection: 531331
       name: Movies
       tpdb_id: 44938
-  The Man from Earth Collection:
-    sort_title: Man from Earth Collection
-    template:
-      collection: 464270
-      name: Movies
-      tpdb_id: 314239
   Man of Steel Collection:
     template:
       collection: 209131
       name: Movies
       tpdb_id: 74681
-  The Man with the Iron Fists Collection:
-    sort_title: Man with the Iron Fists Collection
-    template:
-      collection: 334356
-      name: Movies
-      tpdb_id: 61958
   Mariachi Collection:
     template:
       collection: 9649
@@ -969,12 +958,6 @@ collections:
       collection: 400700
       name: Movies
       tpdb_id: 19956
-  The NeverEnding Story Collection:
-    sort_title: NeverEnding Story Collection
-    template:
-      collection: 91430
-      name: Movies
-      tpdb_id: 92862
   Night at the Museum Collection:
     template:
       collection: 85943
@@ -992,12 +975,6 @@ collections:
       name: Movies
       tmdb_movie: 402900
       tpdb_id: 64818
-  The Odd Couple Collection:
-    sort_title: Odd Couple Collection
-    template:
-      collection: 221966
-      name: Movies
-      tpdb_id: 196198
   Open Season Collection:
     template:
       collection: 66761
@@ -1062,12 +1039,6 @@ collections:
       collection: 399
       name: Movies
       tpdb_id: 243
-  The Princess Diaries Collection:
-    sort_title: Princess Diaries Collection
-    template:
-      collection: 107674
-      name: Movies
-      tpdb_id: 51483
   Project A Collection:
     template:
       collection: 189159
@@ -1094,16 +1065,16 @@ collections:
       collection: 210303
       name: Movies
       tpdb_id: 168847
-  'Resident Evil: Biohazard Collection':
-    template:
-      collection: 133352
-      name: Movies
-      tpdb_id: 8419
   Resident Evil Collection:
     template:
       collection: 17255
       name: Movies
       tpdb_id: 8412
+  'Resident Evil: Biohazard Collection':
+    template:
+      collection: 133352
+      name: Movies
+      tpdb_id: 8419
   Ride Along Collection:
     template:
       collection: 376650
@@ -1245,10 +1216,25 @@ collections:
       collection: 94628
       name: Movies
       tpdb_id: 5525
+  Suicide Squad Collection:
+    template:
+      collection: 531242
+      name: Movies
+      tpdb_id: 140747
+  Super Troopers Collection:
+    template:
+      collection: 449462
+      name: Movies
+      tpdb_id: 36802
   Superman Collection:
     template:
       collection: 8537
       name: Movies
+  Surf's Up Collection:
+    template:
+      collection: 436295
+      name: Movies
+      tpdb_id: 174211
   TRON Collection:
     template:
       collection: 63043
@@ -1268,6 +1254,11 @@ collections:
     template:
       collection: 211721
       name: Movies
+  Ted Collection:
+    template:
+      collection: 266672
+      name: Movies
+      tpdb_id: 18286
   Teenage Mutant Ninja Turtles:
     template:
       collection: 1582
@@ -1505,6 +1496,18 @@ collections:
       collection: 119
       name: Movies
       tpdb_id: 191453
+  The Man from Earth Collection:
+    sort_title: Man from Earth Collection
+    template:
+      collection: 464270
+      name: Movies
+      tpdb_id: 314239
+  The Man with the Iron Fists Collection:
+    sort_title: Man with the Iron Fists Collection
+    template:
+      collection: 334356
+      name: Movies
+      tpdb_id: 61958
   The Matrix Collection:
     sort_title: Matrix Collection
     template:
@@ -1543,6 +1546,24 @@ collections:
       name: Movies
       tmdb_movie: 826914,13352,10208,10874,10437,13247,11176,11899,14900,20910
       tpdb_id: 13696
+  The NeverEnding Story Collection:
+    sort_title: NeverEnding Story Collection
+    template:
+      collection: 91430
+      name: Movies
+      tpdb_id: 92862
+  The Odd Couple Collection:
+    sort_title: Odd Couple Collection
+    template:
+      collection: 221966
+      name: Movies
+      tpdb_id: 196198
+  The Princess Diaries Collection:
+    sort_title: Princess Diaries Collection
+    template:
+      collection: 107674
+      name: Movies
+      tpdb_id: 51483
   The Rescuers Collection:
     sort_title: Rescuers Collection
     template:
@@ -1603,11 +1624,23 @@ collections:
       collection: 9518
       name: Movies
       tpdb_id: 69471
+  The Trolls Collection:
+    sort_title: Trolls Collection
+    template:
+      collection: 489724
+      name: Movies
+      tpdb_id: 28444
   The Twilight Saga Collection:
     sort_title: Twilight Saga
     template:
       collection: 33514
       name: Movies
+  The Vampire Chronicles Collection:
+    sort_title: Vampire Chronicles Collection
+    template:
+      collection: 217704
+      name: Movies
+      tpdb_id: 99737
   The Wolverine Collection:
     sort_title: Wolverine Collection
     template:
@@ -1684,6 +1717,11 @@ collections:
       collection: 558216
       name: Movies
       tpdb_id: 283568
+  Wall Street Collection:
+    template:
+      collection: 52783
+      name: Movies
+      tpdb_id: 85078
   Wallace & Gromit Collection:
     template:
       collection: 529
@@ -1732,3 +1770,8 @@ collections:
       collection: 352789
       name: Movies
       tpdb_id: 228812
+  Zorro Collection:
+    template:
+      collection: 1657
+      name: Movies
+      tpdb_id: 75615
