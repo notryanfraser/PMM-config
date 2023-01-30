@@ -854,11 +854,23 @@ collections:
       collection: 531331
       name: Movies
       tpdb_id: 44938
+  The Man from Earth Collection:
+    sort_title: Man from Earth Collection
+    template:
+      collection: 464270
+      name: Movies
+      tpdb_id: 314239
   Man of Steel Collection:
     template:
       collection: 209131
       name: Movies
       tpdb_id: 74681
+  The Man with the Iron Fists Collection:
+    sort_title: Man with the Iron Fists Collection
+    template:
+      collection: 334356
+      name: Movies
+      tpdb_id: 61958
   Mariachi Collection:
     template:
       collection: 9649
@@ -911,11 +923,16 @@ collections:
       collection: 87359
       name: Movies
       tpdb_id: 11546
+  Monsters Collection:
+    template:
+      collection: 306926
+      name: Movies
+      tpdb_id: 11546
   Monsters, Inc. Collection:
     template:
       collection: 137696
       name: Movies
-      tpdb_id: 29352
+      tpdb_id: 48500
   Monsterverse Collection:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls060980695/
@@ -951,6 +968,12 @@ collections:
     template:
       collection: 400700
       name: Movies
+      tpdb_id: 19956
+  The NeverEnding Story Collection:
+    sort_title: NeverEnding Story Collection
+    template:
+      collection: 91430
+      name: Movies
       tpdb_id: 92862
   Night at the Museum Collection:
     template:
@@ -969,11 +992,26 @@ collections:
       name: Movies
       tmdb_movie: 402900
       tpdb_id: 64818
+  The Odd Couple Collection:
+    sort_title: Odd Couple Collection
+    template:
+      collection: 221966
+      name: Movies
+      tpdb_id: 196198
+  Open Season Collection:
+    template:
+      collection: 66761
+      name: Movies
+      tpdb_id: 174215
   Pacific Rim Collection:
     template:
       collection: 363369
       name: Movies
       tpdb_id: 10219
+  Paddington Collection:
+    template:
+      collection: 488924
+      name: Movies
   Peter Pan Collection:
     template:
       collection: 295
@@ -1005,7 +1043,7 @@ collections:
       tpdb_id: 50196
   Police Academy Collection:
     template:
-      collection: 9338
+      collection: 708816
       name: Movies
       tpdb_id: 217968
   Police Story Collection:
@@ -1013,16 +1051,34 @@ collections:
       collection: 269098
       name: Movies
       tpdb_id: 209258
+  Power Rangers Collection:
+    template:
+      collection: 269098
+      name: Movies
+      tmdb_movie: 305470
+      tpdb_id: 13867
   Predator Collection:
     template:
       collection: 399
       name: Movies
       tpdb_id: 243
+  The Princess Diaries Collection:
+    sort_title: Princess Diaries Collection
+    template:
+      collection: 107674
+      name: Movies
+      tpdb_id: 51483
   Project A Collection:
     template:
       collection: 189159
       name: Movies
     url_upload: https://www.themoviedb.org/t/p/original/bVNZyRNC94GTVHsJplbQg9dXn5N.jpg
+  Puss in Boots Collection:
+    template:
+      collection: 94602
+      name: Movies
+      tmdb_movie: 83201
+      tpdb_id: 43129
   RED Collection:
     template:
       collection: 163902
@@ -1038,6 +1094,11 @@ collections:
       collection: 210303
       name: Movies
       tpdb_id: 168847
+  'Resident Evil: Biohazard Collection':
+    template:
+      collection: 133352
+      name: Movies
+      tpdb_id: 8419
   Resident Evil Collection:
     template:
       collection: 17255
@@ -1053,6 +1114,12 @@ collections:
       collection: 229932
       name: Movies
       tpdb_id: 42960
+  RoboCop Collection:
+    template:
+      collection: 5547
+      name: Movies
+      tmdb_movie: 97020
+      tpdb_id: 7669
   Rocky Collection:
     template:
       collection: 1575
@@ -1080,6 +1147,11 @@ collections:
     template:
       collection: 2602
       name: Movies
+  Shaft Collection:
+    template:
+      collection: 608103
+      name: Movies
+      tpdb_id: 165655
   Shanghai Noon Collection:
     template:
       collection: 59567
@@ -1104,6 +1176,16 @@ collections:
       collection: 2150
       name: Movies
       tpdb_id: 27739
+  Sicario Collection:
+    template:
+      collection: 496796
+      name: Movies
+      tpdb_id: 139267
+  Silent Hill Collection:
+    template:
+      collection: 64748
+      name: Movies
+      tpdb_id: 11690
   Sin City Collection:
     template:
       collection: 135179
@@ -1135,6 +1217,11 @@ collections:
       collection: 556,125574,531241,573436
       name: Movies
       tpdb_id: 4813
+  Spirit Collection:
+    template:
+      collection: 806483
+      name: Movies
+      tpdb_id: 159808
   Star Trek Collection:
     summary: Star Trek is an American science fiction media franchise originating from the 1960s television series Star Trek, created by Gene Roddenberry. It follows the crew of the starship USS Enterprise as it completes its missions in space in the 23rd century.
     template:
@@ -1148,6 +1235,16 @@ collections:
       name: Movies
       tmdb_movie: 348350,330459,74849
       tpdb_id: 4448
+  Starship Troopers Collection:
+    template:
+      collection: 10522
+      name: Movies
+      tpdb_id: 5525
+  Stuart Little Collection:
+    template:
+      collection: 94628
+      name: Movies
+      tpdb_id: 5525
   Superman Collection:
     template:
       collection: 8537
