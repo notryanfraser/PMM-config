@@ -92,7 +92,6 @@ collections:
   #Best of 2021:
     #template: { name: Best of, year: 2021 }
 
-a:
   101 Dalmatians Collection:
     template:
       collection: 100693,124916
