@@ -106,7 +106,7 @@ collections:
       tpdb_id: 18124
   30 Days of Night Collection:
     template:
-      collection: 42941
+      collection: 91660
       name: Movies
       tpdb_id: 22180
   300 Collection:
@@ -291,7 +291,7 @@ collections:
       tpdb_id: 45076
   Bill & Ted's Most Excellent Collection:
     template:
-      collection: 91756
+      collection: 91746
       name: Movies
       tpdb_id: 98787
   Blade Collection:
@@ -353,7 +353,7 @@ collections:
       tpdb_id: 188202
   Chili Palmer Collection:
     template:
-      collection: 4551
+      collection: 91698
       name: Movies
   Cinderella Collection:
     template:
@@ -506,7 +506,7 @@ collections:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls024083258/
     summary: The Unbreakable trilogy, also known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series. The films were written, produced, and directed by M. Night Shyamalan. The trilogy consists of Unbreakable (2000), Split (2016), and Glass (2019).
-    url_upload: https://theposterdb.com/poster/17577
+    url_poster: https://theposterdb.com/poster/17577
   Enchanted Collection:
     template:
       collection: 531799
@@ -514,7 +514,7 @@ collections:
       tpdb_id: 289862
   Escape From ... Collection:
     template:
-      collection: 10061
+      collection: 115838
       name: Movies
       tpdb_id: 96947
   Evangelion Collection:
@@ -926,7 +926,7 @@ collections:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls060980695/
     summary: The MonsterVerse is an American multimedia franchise and shared fictional universe that is centered on a series of monster films featuring Godzilla and King Kong.
-    url_upload: https://theposterdb.com/api/assets/16640/view
+    url_poster: https://theposterdb.com/api/assets/16640/view
   Mulan Collection:
     template:
       collection: 87236
@@ -1043,7 +1043,7 @@ collections:
     template:
       collection: 189159
       name: Movies
-    url_upload: https://www.themoviedb.org/t/p/original/bVNZyRNC94GTVHsJplbQg9dXn5N.jpg
+    url_poster: https://www.themoviedb.org/t/p/original/bVNZyRNC94GTVHsJplbQg9dXn5N.jpg
   Puss in Boots Collection:
     template:
       collection: 94602
@@ -1213,7 +1213,7 @@ collections:
       tpdb_id: 5525
   Stuart Little Collection:
     template:
-      collection: 94628
+      collection: 99727
       name: Movies
       tpdb_id: 5525
   Suicide Squad Collection:
@@ -1655,7 +1655,7 @@ collections:
       tpdb_id: 160391
   Thor Collection:
     template:
-      collection: 10195
+      collection: 131296
       name: Movies
       tpdb_id: 4819
   Three Men Collection:
