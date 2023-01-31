@@ -922,6 +922,11 @@ collections:
       collection: 137696
       name: Movies
       tpdb_id: 48500
+  Monsters, Inc. Collection:
+    template:
+      collection: 137696
+      name: Movies
+      tpdb_id: 48500
   Monsterverse Collection:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls060980695/
@@ -1020,7 +1025,7 @@ collections:
       tpdb_id: 50196
   Police Academy Collection:
     template:
-      collection: 708816
+      collection: 9338
       name: Movies
       tpdb_id: 217968
   Police Story Collection:
@@ -1030,7 +1035,7 @@ collections:
       tpdb_id: 209258
   Power Rangers Collection:
     template:
-      collection: 269098
+      collection: 708816
       name: Movies
       tmdb_movie: 305470
       tpdb_id: 13867
