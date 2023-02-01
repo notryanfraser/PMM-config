@@ -1220,7 +1220,7 @@ collections:
     template:
       collection: 99727
       name: Movies
-      tpdb_id: 5525
+      tpdb_id: 94628
   Suicide Squad Collection:
     template:
       collection: 531242
@@ -1780,3 +1780,27 @@ collections:
       collection: 1657
       name: Movies
       tpdb_id: 75615
+  Black Panther Collection:
+    template:
+      collection: 529892
+      name: Movies
+      tpdb_id: 75615
+  Aquaman Collection:
+    template:
+      collection: 573693
+      name: Movies
+      tpdb_id: 140746
+  Marvel Cinematic Universe:
+    summary: The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe centered on a series of superhero films produced by Marvel Studios.
+    template:
+      collection: 131292,131296,131295,86311,284433,422834,618529,531241,529892,623911,1011336,912503
+      name: Movies
+      tmdb_movie: 1724,497698
+      tpdb_id: 9772
+  DC Extended Universe:
+    summary: American media franchise and shared universe that is centered on a series of superhero films, distributed by Warner Bros. Pictures and based on characters that appear in American comic books by DC Comics.
+    template:
+      collection: 573693,531242,468552,209131,724848,948485
+      name: Movies
+      tmdb_movie: 141052,791373,436270
+      tpdb_id: 140745
