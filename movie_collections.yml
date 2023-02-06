@@ -506,7 +506,7 @@ collections:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls024083258/
     summary: The Unbreakable trilogy, also known as the Eastrail 177 Trilogy, is an American superhero thriller and psychological horror film series. The films were written, produced, and directed by M. Night Shyamalan. The trilogy consists of Unbreakable (2000), Split (2016), and Glass (2019).
-    url_poster: https://theposterdb.com/poster/17577
+    url_poster: https://theposterdb.com/api/assets/17577/view
   Enchanted Collection:
     template:
       collection: 531799
@@ -561,12 +561,12 @@ collections:
       tpdb_id: 89747
   Friday Collection:
     template:
-      collection: 363015
+      collection: 43563
       name: Movies
       tpdb_id: 28461
   Frosty the Snowman Collection:
     template:
-      collection: 43563
+      collection: 363015
       name: Movies
       tpdb_id: 283393
   Frozen Collection:
@@ -747,7 +747,7 @@ collections:
     template:
       collection: 2366
       name: Movies
-      tpdb_id: 3455
+      tpdb_id: 8288
   Jay and Silent Bob Collection:
     template:
       collection: 726870
@@ -916,17 +916,17 @@ collections:
     template:
       collection: 306926
       name: Movies
-      tpdb_id: 11546
-  Monsters, Inc. Collection:
-    template:
-      collection: 137696
-      name: Movies
       tpdb_id: 48500
   Monsters, Inc. Collection:
     template:
       collection: 137696
       name: Movies
-      tpdb_id: 48500
+      tpdb_id: 29352
+  Moon Collection:
+    template:
+      collection: 995464
+      name: Movies
+      tpdb_id: 294881
   Monsterverse Collection:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls060980695/
@@ -997,21 +997,22 @@ collections:
   Peter Pan Collection:
     template:
       collection: 295
-      name: 48097
+      name: Movies
+      tpdb_id: 48097
   Pirates of the Caribbean Collection:
     template:
       collection: 295
-      name: Movie
+      name: Movies
       tpdb_id: 49933
   Pitch Perfect Collection:
     template:
       collection: 306031
-      name: Movie
+      name: Movies
       tpdb_id: 51631
   Planes Collection:
     template:
       collection: 270252
-      name: Movie
+      name: Movies
       tpdb_id: 31278
   Planet of the Apes (Reboot) Collection:
     template:
@@ -1784,7 +1785,7 @@ collections:
     template:
       collection: 529892
       name: Movies
-      tpdb_id: 75615
+      tpdb_id: 194953
   Aquaman Collection:
     template:
       collection: 573693
@@ -1802,5 +1803,5 @@ collections:
     template:
       collection: 573693,531242,468552,209131,724848,948485
       name: Movies
-      tmdb_movie: 141052,791373,436270
+      tmdb_movie: 141052,791373,436270,495764
       tpdb_id: 140745

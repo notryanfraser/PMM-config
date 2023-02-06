@@ -2,6 +2,8 @@
 #                  Movie Metadata                    #
 ######################################################
 metadata:
+  Black Adam:
+    url_poster: https://theposterdb.com/api/assets/290218/view
   10 Cloverfield Lane:
     url_poster: https://theposterdb.com/api/assets/13928/view
   '101 Dalmatians 2: Patch''s London Adventure':
@@ -1739,12 +1741,36 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/46807/view
   The Living Daylights:
     url_poster: https://theposterdb.com/api/assets/134685/view
-  'The Lord of the Rings: The Fellowship of the Ring':
+  'The Lord of the Rings: The Fellowship of the Ring Theatrical Edition':
+    title: 'The Lord of the Rings: The Fellowship of the Ring'
+    year: 2001
+    edition_filter: Theatrical
     url_poster: https://theposterdb.com/api/assets/191454/view
-  'The Lord of the Rings: The Return of the King':
+  'The Lord of the Rings: The Fellowship of the Ring Extended Edition':
+    title: 'The Lord of the Rings: The Fellowship of the Ring'
+    year: 2001
+    edition_filter: Extended
+    url_poster: https://theposterdb.com/api/assets/191472/view
+  'The Lord of the Rings: The Return of the King Theatrical Edition':
+    title: 'The Lord of the Rings: The Return of the King'
+    year: 2003
+    edition_filter: Theatrical
     url_poster: https://theposterdb.com/api/assets/191456/view
-  'The Lord of the Rings: The Two Towers':
+  'The Lord of the Rings: The Return of the King Extended Edition':
+    title: 'The Lord of the Rings: The Return of the King'
+    year: 2003
+    edition_filter: Extended
+    url_poster: https://theposterdb.com/api/assets/191474/view
+  'The Lord of the Rings: The Two Towers Theatrical Edition':
+    title: 'The Lord of the Rings: The Two Towers'
+    year: 2002
+    edition_filter: Theatrical
     url_poster: https://theposterdb.com/api/assets/191455/view
+  'The Lord of the Rings: The Two Towers Extended Edition':
+    title: 'The Lord of the Rings: The Two Towers'
+    year: 2002
+    edition_filter: Extended
+    url_poster: https://theposterdb.com/api/assets/191473/view
   'The Lost World: Jurassic Park':
     url_poster: https://theposterdb.com/api/assets/158970/view
   The Man from Earth:
@@ -2049,10 +2075,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/153775/view
   Shang-Chi and the Legend of the Ten Rings:
     url_poster: https://theposterdb.com/api/assets/170437/view
-  Suicide Squad:
-    url_poster: https://theposterdb.com/api/assets/140751/view
-  The Suicide Squad:
-    url_poster: https://theposterdb.com/api/assets/140759/view
   Justice League:
     url_poster: https://theposterdb.com/api/assets/140753/view
   Zack Snyder's Justice League:
@@ -2061,14 +2083,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/140754/view
   Shazam!:
     url_poster: https://theposterdb.com/api/assets/140755/view
-  Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn):
+  Birds of Prey:
     url_poster: https://theposterdb.com/api/assets/140756/view
   414906:
     url_poster: https://theposterdb.com/api/assets/228025/view
-    url_poster: https://theposterdb.com/api/assets/228025/view
   Rise of the Guardians:
     url_poster: https://theposterdb.com/api/assets/28258/view
-  Monsters vs Aliens:
+  Monsters vs. Aliens:
     url_poster: https://theposterdb.com/api/assets/28259/view
   Home:
     url_poster: https://theposterdb.com/api/assets/28261/view
@@ -2198,8 +2219,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/33367/view
   Christopher Robin:
     url_poster: https://theposterdb.com/api/assets/44947/view
-  Castle in the Sky:
-    url_poster: https://theposterdb.com/api/assets/24656/view
   My Neighbor Totoro:
     url_poster: https://theposterdb.com/api/assets/24657/view
   Grave of the Fireflies:
@@ -2222,5 +2241,59 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/24700/view
   Morbius:
     url_poster: https://theposterdb.com/api/assets/235709/view
-    Frankenweenie:
+  Frankenweenie:
     url_poster: https://theposterdb.com/api/assets/32446/view
+  The Tigger Movie:
+    url_poster: https://theposterdb.com/api/assets/44944/view
+  Piglet's Big Movie:
+    url_poster: https://theposterdb.com/api/assets/44945/view
+  Teacher's Pet:
+    url_poster: https://theposterdb.com/api/assets/93429/view
+  Valiant:
+    url_poster: https://theposterdb.com/api/assets/136210/view
+  The Wild:
+    url_poster: https://theposterdb.com/api/assets/32452/view
+  Hercules:
+    url_poster: https://theposterdb.com/api/assets/33352/view
+  Tangled:
+    url_poster: https://theposterdb.com/api/assets/49803/view
+  Storks:
+    url_poster: https://theposterdb.com/api/assets/99705/view
+  Smallfoot:
+    url_poster: https://theposterdb.com/api/assets/99706/view
+  The One and Only Ivan:
+    url_poster: https://theposterdb.com/api/assets/102054/view
+  Luck:
+    url_poster: https://theposterdb.com/api/assets/255450/view
+  DC League of Super-Pets:
+    url_poster: https://theposterdb.com/api/assets/209983/view
+  Klaus:
+    url_poster: https://theposterdb.com/api/assets/108113/view
+  'DuckTales the Movie: Treasure of the Lost Lamp':
+    url_poster: https://theposterdb.com/api/assets/21758/view
+  A Goofy Movie:
+    url_poster: https://theposterdb.com/api/assets/207435/view
+  Rango:
+    url_poster: https://theposterdb.com/api/assets/188501/view
+  Who Framed Roger Rabbit:
+    url_poster: https://theposterdb.com/api/assets/97894/view
+  Titan A.E.:
+    url_poster: https://theposterdb.com/api/assets/87279/view
+  Green Lantern:
+    url_poster: https://theposterdb.com/api/assets/51506/view
+  Joker:
+    url_poster: https://theposterdb.com/api/assets/51494/view
+  The Pebble and the Penguin:
+    url_poster: https://theposterdb.com/api/assets/87276/view
+  Stargate:
+    url_poster: https://theposterdb.com/api/assets/246583/view
+  The Wizard of Oz:
+    url_poster: https://theposterdb.com/api/assets/91797/view
+  Small Soldiers:
+    url_poster: https://theposterdb.com/api/assets/260986/view
+  Oz the Great and Powerful:
+    url_poster: https://theposterdb.com/api/assets/97883/view
+  11114:
+    url_poster: https://theposterdb.com/api/assets/78184/view
+  294272:
+    url_poster: https://theposterdb.com/api/assets/78185/view
