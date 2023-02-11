@@ -1645,12 +1645,36 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/950/view
   The Hitman's Bodyguard:
     url_poster: https://theposterdb.com/api/assets/160630/view
-  'The Hobbit: An Unexpected Journey':
+  'The Hobbit: An Unexpected Journey Theatrical Edition':
+    title: 'The Hobbit: An Unexpected Journey'
+    year: 2012
+    edition_filter: Theatrical
     url_poster: https://theposterdb.com/api/assets/191466/view
-  'The Hobbit: The Battle of the Five Armies':
+  'The Hobbit: An Unexpected Journey Extended Edition':
+    title: 'The Hobbit: An Unexpected Journey'
+    year: 2012
+    edition_filter: Extended
+    url_poster: https://theposterdb.com/api/assets/191484/view
+  'The Hobbit: The Battle of the Five Armies Theatrical Edition':
+    title: 'The Hobbit: The Battle of the Five Armies'
+    year: 2014
+    edition_filter: Theatrical
     url_poster: https://theposterdb.com/api/assets/191459/view
-  'The Hobbit: The Desolation of Smaug':
+  'The Hobbit: The Battle of the Five Armies Extended Edition':
+    title: 'The Hobbit: The Battle of the Five Armies'
+    year: 2014
+    edition_filter: Extended
+    url_poster: https://theposterdb.com/api/assets/191486/view
+  'The Hobbit: The Desolation of Smaug Theatrical Edition':
+    title: 'The Hobbit: The Desolation of Smaug'
+    year: 2013
+    edition_filter: Theatrical
     url_poster: https://theposterdb.com/api/assets/191458/view
+  'The Hobbit: The Desolation of Smaug Extended Edition':
+    title: 'The Hobbit: The Desolation of Smaug'
+    year: 2013
+    edition_filter: Extended
+    url_poster: https://theposterdb.com/api/assets/191485/view
   The Hunchback of Notre Dame:
     url_poster: https://theposterdb.com/api/assets/78826/view
   The Hunchback of Notre Dame II:
@@ -1713,7 +1737,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/105471/view
   'The Land Before Time II: The Great Valley Adventure':
     url_poster: https://theposterdb.com/api/assets/105459/view
-  'The Legend is Born: Ip Man':
+  'The Legend Is Born: Ip Man':
     url_poster: https://theposterdb.com/api/assets/66525/view
   The Legend of Drunken Master:
     url_poster: https://theposterdb.com/api/assets/170410/view
@@ -2297,3 +2321,101 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/78184/view
   294272:
     url_poster: https://theposterdb.com/api/assets/78185/view
+  56149:
+    url_poster: https://theposterdb.com/api/assets/47549/view
+  13685:
+    url_poster: https://theposterdb.com/api/assets/62578/view
+  The Darjeeling Limited:
+    url_poster: https://theposterdb.com/api/assets/62582/view
+  Fantastic Mr. Fox:
+    url_poster: https://theposterdb.com/api/assets/62583/view
+  The French Dispatch:
+    url_poster: https://theposterdb.com/api/assets/62577/view
+  The Grand Budapest Hotel:
+    url_poster: https://theposterdb.com/api/assets/62585/view
+  Hotel Chevalier:
+    url_poster: https://theposterdb.com/api/assets/97406/view
+  Isle of Dogs:
+    url_poster: https://theposterdb.com/api/assets/62586/view
+  The Life Aquatic with Steve Zissou:
+    url_poster: https://theposterdb.com/api/assets/62581/view
+  Moonrise Kingdom:
+    url_poster: https://theposterdb.com/api/assets/62584/view
+  The Royal Tenenbaums:
+    url_poster: https://theposterdb.com/api/assets/62580/view
+  Rushmore:
+    url_poster: https://theposterdb.com/api/assets/62579/view
+  The Boxtrolls:
+    url_poster: https://theposterdb.com/api/assets/29755/view
+  Coraline:
+    url_poster: https://theposterdb.com/api/assets/29753/view
+  Kubo and the Two Strings:
+    url_poster: https://theposterdb.com/api/assets/29756/view
+  ParaNorman:
+    url_poster: https://theposterdb.com/api/assets/29754/view
+  Missing Link:
+    url_poster: https://theposterdb.com/api/assets/29758/view
+  512895:
+    url_poster: https://theposterdb.com/api/assets/44950/view
+  "Lego Batman: The Movie - DC Super Heroes Unite":
+    url_poster: https://theposterdb.com/api/assets/128860/view
+  "Lego DC Batman: Family Matters":
+    url_poster: https://theposterdb.com/api/assets/128861/view
+  "Lego DC Comics Super Heroes: The Flash":
+    url_poster: https://theposterdb.com/api/assets/128867/view
+  "Lego DC Super Heroes: Justice League - Attack of the Legion of Doom!":
+    url_poster: https://theposterdb.com/api/assets/128863/view
+  "Lego DC Comics Super Heroes: Justice League - Cosmic Clash":
+    url_poster: https://theposterdb.com/api/assets/128864/view
+  "Lego DC Comics Superheroes: Justice League - Gotham City Breakout":
+    url_poster: https://theposterdb.com/api/assets/128862/view
+  "Lego DC Comics Super Heroes: Justice League vs. Bizarro League":
+    url_poster: https://theposterdb.com/api/assets/128865/view
+  The Two Jakes:
+    url_poster: https://theposterdb.com/api/assets/110655/view
+  Chinatown:
+    url_poster: https://theposterdb.com/api/assets/110518/view
+  "Lego Star Wars: The Empire Strikes Out":
+    url_poster: https://theposterdb.com/api/assets/27943/view
+  "Lego Star Wars: The Quest for R2-D2":
+    url_poster: https://theposterdb.com/api/assets/27946/view
+  "Lego Star Wars: Bombad Bounty":
+    url_poster: https://theposterdb.com/api/assets/27945/view
+  "Lego Star Wars: The Padawan Menace":
+    url_poster: https://theposterdb.com/api/assets/27941/view
+  "The Lego Star Wars Holiday Special":
+    url_poster: https://theposterdb.com/api/assets/111365/view
+  "Lego Star Wars Terrifying Tales":
+    url_poster: https://theposterdb.com/api/assets/288086/view
+  "Lego Star Wars Summer Vacation":
+    url_poster: https://theposterdb.com/api/assets/288087/view
+  Charlie Brown's Christmas Tales:
+    url_poster: https://theposterdb.com/api/assets/23949/view
+  568620:
+    url_poster: https://theposterdb.com/api/assets/170291/view
+  Happy New Year, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14729/view
+  Charlie Brown's All Stars!:
+    url_poster: https://theposterdb.com/api/assets/19340/view
+  Thumbelina:
+    url_poster: https://theposterdb.com/api/assets/87274/view
+  Wish Dragon:
+    url_poster: https://theposterdb.com/api/assets/160148/view
+  Born on the Fourth of July:
+    url_poster: https://theposterdb.com/api/assets/123984/view
+  A Troll in Central Park:
+    url_poster: https://theposterdb.com/api/assets/87275/view
+  Batman:
+    url_poster: https://theposterdb.com/api/assets/27395/view
+  Batman Returns:
+    url_poster: https://theposterdb.com/api/assets/27396/view
+  Batman Forever:
+    url_poster: https://theposterdb.com/api/assets/27397/view
+  Batman & Robin:
+    url_poster: https://theposterdb.com/api/assets/27398/view
+  Lady Vengeance:
+    url_poster: https://theposterdb.com/api/assets/62610/view
+  Oldboy:
+    url_poster: https://theposterdb.com/api/assets/62608/view
+  Sympathy for Mr. Vengeance:
+    url_poster: https://theposterdb.com/api/assets/62607/view
