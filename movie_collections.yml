@@ -62,18 +62,17 @@ collections:
   Popular:
     template: { name: Chart, num: 3 }
     tmdb_popular: 40
-    imdb_list:
-      url: https://www.imdb.com/search/title/?title_type=feature,tv_movie,documentary,short
-      limit: 40
+    imdb_chart: popular_movies
     summary: Popular Movies across the internet
   Top Rated:
-    template: { name: Chart, num: 4 }
-    imdb_list: https://www.imdb.com/search/title/?groups=top_250&count=250/
-    tmdb_top_rated: 250
+    imdb_chart: top_movies
+    collection_order: custom
+    sync_mode: sync
     summary: Top Rated Movies across the internet
   Oscars:
     template: { name: Chart, num: 5 }
-    imdb_list: https://www.imdb.com/search/title/?title_type=feature,documentary&groups=oscar_winner
+    imdb_search:
+      event.winning: oscar
     summary: Oscar Winning Movies
   #Best of 2014:
     #template: { name: Best of, year: 2014 }
@@ -92,7 +91,16 @@ collections:
   #Best of 2021:
     #template: { name: Best of, year: 2021 }
 
-
+  Extraction Collection:
+    template:
+      collection: 735127
+      name: Movies
+      tpdb_id: 362777
+  Avatar Collection:
+    template:
+      collection: 87096
+      name: Movies
+      tpdb_id: 277976
   101 Dalmatians Collection:
     template:
       collection: 100693,124916
@@ -174,7 +182,7 @@ collections:
     template:
       collection: 8091
       name: Movies
-      tmdb_movie: 70981,126889
+      tmdb_movie: 70981,126889,945961
       tpdb_id: 1213
   All Dogs Go to Heaven Collection:
     template:
@@ -349,7 +357,7 @@ collections:
     template:
       collection: 1028525
       name: Movies
-      tmdb_movie: 31718,24251,15242
+      tmdb_movie: 31718,24251,15242,31732,34228
       tpdb_id: 188202
   Chili Palmer Collection:
     template:
@@ -930,6 +938,7 @@ collections:
   Monsterverse Collection:
     collection_mode: hide
     imdb_list: https://www.imdb.com/list/ls060980695/
+    tmdb_movie: 823464
     summary: The MonsterVerse is an American multimedia franchise and shared fictional universe that is centered on a series of monster films featuring Godzilla and King Kong.
     url_poster: https://theposterdb.com/api/assets/16640/view
   Mulan Collection:
@@ -996,7 +1005,7 @@ collections:
       name: Movies
   Peter Pan Collection:
     template:
-      collection: 295
+      collection: 55422
       name: Movies
       tpdb_id: 48097
   Pirates of the Caribbean Collection:
@@ -1124,6 +1133,8 @@ collections:
     template:
       collection: 2602
       name: Movies
+      tpdb_id: 804
+      collection_order: release
   Shaft Collection:
     template:
       collection: 608103
@@ -1362,7 +1373,7 @@ collections:
     template:
       collection: 523855
       name: Movies
-      tpdb_id: 37023
+      tpdb_id: 131877
   The Expendables Collection:
     sort_title: Expendables Collection
     template:
@@ -1785,7 +1796,7 @@ collections:
     template:
       collection: 529892
       name: Movies
-      tpdb_id: 194953
+      tpdb_id: 350888
   Aquaman Collection:
     template:
       collection: 573693
@@ -1831,4 +1842,66 @@ collections:
       collection: 120794
       name: Movies
       tpdb_id: 27394
-      
+  IMAX Documentaries:
+    collection_mode: hide
+    imdb_list: https://www.imdb.com/list/ls062317593/
+    summary: Collection of IMAX Documentaries.
+    url_poster: https://theposterdb.com/api/assets/140716/view
+  Cornetto Trilogy:
+    template:
+      tmdb_list: 6153
+      name: Movies
+      tpdb_id: 60578
+      collection_order: release
+  Insidious Collection:
+    template:
+      tmdb_list: 228446
+      name: Movies
+      tpdb_id: 972
+      collection_order: release
+  The Meg Collection:
+    template:
+      tmdb_list: 742536
+      name: Movies
+      tpdb_id: 401360
+  X Collection:
+    template:
+      tmdb_list: 950289
+      name: Movies
+      tpdb_id: 513048
+  Rebel Moon Collection:
+    template:
+      tmdb_list: 934765
+      name: Movies
+      tpdb_id: 449365
+  Twisters Collection:
+    template:
+      tmdb_list: 1062948
+      name: Movies
+      tpdb_id: 508439
+  Spy Kids Collection:
+    template:
+      tmdb_list: 86486
+      name: Movies
+      tpdb_id: 116770
+  Beetlejuice Collection:
+    template:
+      tmdb_list: 945475
+      name: Movies
+      tpdb_id: 534111
+  Inside Out Collection:
+    template:
+      tmdb_list: 1022790
+      name: Movies
+      tpdb_id: 53463
+  Megamind Collection:
+    template:
+      tmdb_list: 1239518
+      name: Movies
+      tpdb_id: 43664
+  The Bad Guys Collection:
+    template:
+      tmdb_list: 1231053
+      name: Movies
+      tmdb_movie: 1046032,1329336
+      tpdb_id: 439216

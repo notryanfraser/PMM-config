@@ -2,6 +2,34 @@
 #                  Movie Metadata                    #
 ######################################################
 metadata:
+  The Flash:
+    url_poster: https://theposterdb.com/api/assets/325497/view
+  'Ghost in the Shell: SAC_2045 Sustainable War':
+    url_poster: https://theposterdb.com/api/assets/312201/view
+  Extraction:
+    url_poster: https://theposterdb.com/api/assets/362778/view
+  Extraction II:
+    url_poster: https://theposterdb.com/api/assets/362779/view
+  Avatar:
+    url_poster: https://theposterdb.com/api/assets/277977/view
+  'Avatar: The Way of Water':
+    url_poster: https://theposterdb.com/api/assets/277978/view
+  Sisu:
+    url_poster: https://theposterdb.com/api/assets/363003/view
+  Creed III:
+    url_poster: https://theposterdb.com/api/assets/313792/view
+  'Shazam! Fury of the Gods':
+    url_poster: https://theposterdb.com/api/assets/378022/view
+  Guardians of the Galaxy Vol. 3:
+    url_poster: https://theposterdb.com/api/assets/330897/view
+  'Ant-Man and the Wasp: Quantumania':
+    url_poster: https://theposterdb.com/api/assets/320500/view
+  Fast X:
+    url_poster: https://theposterdb.com/api/assets/333396/view
+  'Transformers: Rise of the Beasts':
+    url_poster: https://theposterdb.com/api/assets/383192/view
+  'John Wick: Chapter 4':
+    url_poster: https://theposterdb.com/api/assets/326803/view
   Black Adam:
     url_poster: https://theposterdb.com/api/assets/290218/view
   10 Cloverfield Lane:
@@ -92,8 +120,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/44902/view
   420818:
     url_poster: https://theposterdb.com/api/assets/46458/view
-  438631:
-    url_poster: https://theposterdb.com/api/assets/182911/view
   440:
     url_poster: https://theposterdb.com/api/assets/1219/view
   442062:
@@ -102,9 +128,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/11248/view
   47 Ronin:
     url_poster: https://theposterdb.com/api/assets/305687/view
-  479:
+  'Shaft (2000)':
+    match:
+      mapping_id: 479
     url_poster: https://theposterdb.com/api/assets/165656/view
-  481084:
+  'The Addams Family (2019)':
+    match:
+      mapping_id: 481084
     url_poster: https://theposterdb.com/api/assets/53156/view
   486131:
     url_poster: https://theposterdb.com/api/assets/165657/view
@@ -166,7 +196,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/36708/view
   Airplane!:
     url_poster: https://theposterdb.com/api/assets/36707/view
-  Aladdin:
+  2745:
     url_poster: https://theposterdb.com/api/assets/43735/view
   'Aladdin 2: The Return of Jafar':
     url_poster: https://theposterdb.com/api/assets/43736/view
@@ -292,7 +322,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/137286/view
   Be My Valentine, Charlie Brown:
     url_poster: https://theposterdb.com/api/assets/14734/view
-  Beauty and the Beast:
+  10020:
     url_poster: https://theposterdb.com/api/assets/44914/view
   'Beauty and the Beast: The Enchanted Christmas':
     url_poster: https://theposterdb.com/api/assets/44915/view
@@ -368,11 +398,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/28788/view
   Casino:
     url_poster: https://theposterdb.com/api/assets/33543/view
-  Casino Royale:
+  12208:
     url_poster: https://theposterdb.com/api/assets/134673/view
   Castle in the Sky:
     url_poster: https://theposterdb.com/api/assets/24656/view
-  Cinderella:
+  11224:
     url_poster: https://theposterdb.com/api/assets/44919/view
   'Cinderella 3: A Twist in Time':
     url_poster: https://theposterdb.com/api/assets/44922/view
@@ -440,8 +470,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/14100/view
   Daddy's Home 2:
     url_poster: https://theposterdb.com/api/assets/14101/view
-  Dawn of the Dead:
+  923:
     url_poster: https://theposterdb.com/api/assets/60045/view
+  924:
+    url_poster: https://theposterdb.com/api/assets/60053/view
   Dawn of the Planet of the Apes:
     url_poster: https://theposterdb.com/api/assets/138601/view
   Day of the Dead:
@@ -451,9 +483,9 @@ metadata:
   'Dead Snow 2: Red vs. Dead':
     url_poster: https://theposterdb.com/api/assets/66488/view
   Deadpool:
-    url_poster: https://theposterdb.com/api/assets/148780/view
+    url_poster: https://theposterdb.com/api/assets/259851/view
   Deadpool 2:
-    url_poster: https://theposterdb.com/api/assets/148781/view
+    url_poster: https://theposterdb.com/api/assets/259852/view
   Death on the Nile:
     url_poster: https://theposterdb.com/api/assets/212863/view
   Desperado:
@@ -554,10 +586,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/12117/view
   'Dumb and Dumberer: When Harry Met Lloyd':
     url_poster: https://theposterdb.com/api/assets/12116/view
-  Dumbo:
+  11360:
     url_poster: https://theposterdb.com/api/assets/44924/view
-  Dune:
+  841:
     url_poster: https://theposterdb.com/api/assets/74141/view
+  438631:
+    url_poster: https://theposterdb.com/api/assets/182911/view
   El Mariachi:
     url_poster: https://theposterdb.com/api/assets/214462/view
   Enchanted:
@@ -650,7 +684,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/137282/view
   Ghost Punting:
     url_poster: https://theposterdb.com/api/assets/96601/view
-  Ghost in the Shell:
+  9323:
     url_poster: https://theposterdb.com/api/assets/175260/view
   Ghost in the Shell 2.0:
     url_poster: https://theposterdb.com/api/assets/175262/view
@@ -736,7 +770,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/197900/view
   Heavy Metal 2000:
     url_poster: https://theposterdb.com/api/assets/197901/view
-  Hellboy:
+  1487:
     url_poster: https://theposterdb.com/api/assets/11246/view
   'Hellboy II: The Golden Army':
     url_poster: https://theposterdb.com/api/assets/11247/view
@@ -1290,7 +1324,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/42970/view
   Rise of the Planet of the Apes:
     url_poster: https://theposterdb.com/api/assets/138600/view
-  RoboCop:
+  5548:
     url_poster: https://theposterdb.com/api/assets/7670/view
   RoboCop 2:
     url_poster: https://theposterdb.com/api/assets/7671/view
@@ -1534,7 +1568,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/13662/view
   The Accidental Spy:
     url_poster: https://theposterdb.com/api/assets/153580/view
-  The Addams Family:
+  'The Addams Family (1991)':
+    match:
+      mapping_id: 2907
     url_poster: https://theposterdb.com/api/assets/53153/view
   The Amazing Spider-Man:
     url_poster: https://theposterdb.com/api/assets/116710/view
@@ -1598,9 +1634,9 @@ metadata:
   The Emperor's New Groove:
     url_poster: https://theposterdb.com/api/assets/46821/view
   The Equalizer:
-    url_poster: https://theposterdb.com/api/assets/37024/view
+    url_poster: https://theposterdb.com/api/assets/131878/view
   The Equalizer 2:
-    url_poster: https://theposterdb.com/api/assets/37025/view
+    url_poster: https://theposterdb.com/api/assets/131879/view
   The Evil Dead:
     url_poster: https://theposterdb.com/api/assets/7076/view
   The Expendables:
@@ -1751,13 +1787,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/99635/view
   The Lego Ninjago Movie:
     url_poster: https://theposterdb.com/api/assets/99634/view
-  The Lion King:
+  8587:
     url_poster: https://theposterdb.com/api/assets/46455/view
   'The Lion King 3: Hakuna Matata':
     url_poster: https://theposterdb.com/api/assets/46457/view
   'The Lion King II: Simba''s Pride':
     url_poster: https://theposterdb.com/api/assets/46456/view
-  The Little Mermaid:
+  10144:
     url_poster: https://theposterdb.com/api/assets/46805/view
   'The Little Mermaid II: Return to the Sea':
     url_poster: https://theposterdb.com/api/assets/46806/view
@@ -2183,7 +2219,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/33335/view
   The Aristocats:
     url_poster: https://theposterdb.com/api/assets/33337/view
-  Robin Hood:
+  11886:
     url_poster: https://theposterdb.com/api/assets/33338/view
   The Many Adventures of Winnie the Pooh:
     url_poster: https://theposterdb.com/api/assets/33339/view
@@ -2419,3 +2455,184 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/62608/view
   Sympathy for Mr. Vengeance:
     url_poster: https://theposterdb.com/api/assets/62607/view
+  Hot Fuzz:
+    url_poster: https://theposterdb.com/api/assets/60580/view
+  Shaun of the Dead:
+    url_poster: https://theposterdb.com/api/assets/60579/view
+  "The World's End":
+    url_poster: https://theposterdb.com/api/assets/60581/view
+  "Spider-Man: Across the Spider-Verse":
+    url_poster: https://theposterdb.com/api/assets/376701/view
+  Asteroid City:
+    url_poster: https://theposterdb.com/api/assets/434012/view
+  "Resident Evil: Death Island":
+    url_poster: https://theposterdb.com/api/assets/387945/view
+  4232:
+    url_poster: https://theposterdb.com/api/assets/805/view
+  Scream 2:
+    url_poster: https://theposterdb.com/api/assets/806/view
+  Scream 3:
+    url_poster: https://theposterdb.com/api/assets/807/view
+  Scream 4:
+    url_poster: https://theposterdb.com/api/assets/808/view
+  Scream VI:
+    url_poster: https://theposterdb.com/api/assets/355473/view
+  646385:
+    url_poster: https://theposterdb.com/api/assets/212931/view
+  Insidious:
+    url_poster: https://theposterdb.com/api/assets/973/view
+  "Insidious: Chapter 2":
+    url_poster: https://theposterdb.com/api/assets/975/view
+  "Insidious: Chapter 3":
+    url_poster: https://theposterdb.com/api/assets/977/view
+  "Insidious: The Last Key":
+    url_poster: https://theposterdb.com/api/assets/980/view
+  "Insidious: The Red Door":
+    url_poster: https://theposterdb.com/api/assets/397612/view
+  The Meg:
+    url_poster: https://theposterdb.com/api/assets/401361/view
+  "The Meg 2: The Trench":
+    url_poster: https://theposterdb.com/api/assets/401362/view
+  Expend4bles:
+    url_poster: https://theposterdb.com/api/assets/420835/view
+  You're Not Elected, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14736/view
+  He's Your Dog, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/113467/view
+  The Forever Purge:
+    url_poster: https://theposterdb.com/api/assets/163510/view
+  "The Purge: Election Year":
+    url_poster: https://theposterdb.com/api/assets/88411/view
+  "The Purge: Anarchy":
+    url_poster: https://theposterdb.com/api/assets/88409/view
+  The Purge:
+    url_poster: https://theposterdb.com/api/assets/88408/view
+  The First Purge:
+    url_poster: https://theposterdb.com/api/assets/88411/view
+  'Alien: Romulus':
+    url_poster: https://theposterdb.com/api/assets/511341/view
+  'Sing: Thriller':
+    url_poster: https://theposterdb.com/api/assets/534784/view
+  'A Quiet Place: Day One':
+    url_poster: https://theposterdb.com/api/assets/538519/view
+  'MaXXXine':
+    url_poster: https://theposterdb.com/api/assets/513049/view
+  'X':
+    url_poster: https://theposterdb.com/api/assets/513051/view
+  'Pearl':
+    url_poster: https://theposterdb.com/api/assets/513050/view
+  'Furiosa: A Mad Max Saga':
+    url_poster: https://theposterdb.com/api/assets/495099/view
+  A Fistful of Dollars:
+    url_poster: https://theposterdb.com/api/assets/54597/view
+  For a Few Dollars More:
+    url_poster: https://theposterdb.com/api/assets/54598/view
+  Pale Rider:
+    url_poster: https://theposterdb.com/api/assets/54655/view
+  High Plains Drifter:
+    url_poster: https://theposterdb.com/api/assets/54659/view
+  Deadpool & Wolverine:
+    url_poster: https://theposterdb.com/api/assets/455844/view
+  Someday You'll Find Her, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/115396/view
+  You're the Greatest, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/113517/view
+  You're a Good Sport, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14739/view
+  You're a Good Man, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/115395/view
+  There's No Time for Love, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/101843/view
+  Snoopy's Getting Married, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/296026/view
+  Play It Again, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/29976/view
+  Lucy Must Be Traded, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/296063/view
+  Life Is a Circus, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/101844/view
+  Is This Goodbye, Charlie Brown?:
+    url_poster: https://theposterdb.com/api/assets/114309/view
+  It's Your First Kiss, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/20864/view
+  It's an Adventure, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/114307/view
+  It's a Mystery, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/14742/view
+  It's Spring Training, Charlie Brown!:
+    url_poster: https://theposterdb.com/api/assets/296051/view
+  He's a Bully, Charlie Brown:
+    url_poster: https://theposterdb.com/api/assets/296239/view
+  A Charlie Brown Celebration:
+    url_poster: https://theposterdb.com/api/assets/114306/view
+  Despicable Me 4:
+    url_poster: https://theposterdb.com/api/assets/27391/view
+  Inside Out 2:
+    url_poster: https://theposterdb.com/api/assets/518173/view
+  Kung Fu Panda 4:
+    url_poster: https://theposterdb.com/api/assets/486505/view
+  Migration:
+    url_poster: https://theposterdb.com/api/assets/450103/view
+  'Rebel Moon: Part One - A Child of Fire':
+    url_poster: https://theposterdb.com/api/assets/449366/view
+  'Rebel Moon - Part Two: The Scargiver':
+    url_poster: https://theposterdb.com/api/assets/491593/view
+  'Bad Boys: Ride or Die':
+    url_poster: https://theposterdb.com/api/assets/510340/view
+  Aquaman and the Lost Kingdom:
+    url_poster: https://theposterdb.com/api/assets/393615/view
+  Twister:
+    url_poster: https://theposterdb.com/api/assets/508440/view
+  Twisters:
+    url_poster: https://theposterdb.com/api/assets/508441/view
+  Kingdom of the Planet of the Apes:
+    url_poster: https://theposterdb.com/api/assets/483882/view
+  Spy Kids:
+    url_poster: https://theposterdb.com/api/assets/116771/view
+  'Spy Kids 2: The Island of Lost Dreams':
+    url_poster: https://theposterdb.com/api/assets/116772/view
+  'Spy Kids 3-D: Game Over':
+    url_poster: https://theposterdb.com/api/assets/116773/view
+  'Spy Kids: All the Time in the World':
+    url_poster: https://theposterdb.com/api/assets/116774/view
+  Jeremiah Johnson:
+    url_poster: https://theposterdb.com/api/assets/399480/view
+  What a Nightmare, Charlie Brown!:
+    url_poster: https://theposterdb.com/api/assets/113639/view
+  'Mission: Impossible - Dead Reckoning Part One':
+    url_poster: https://theposterdb.com/api/assets/415891/view
+  The Equalizer 3: 
+    url_poster: https://theposterdb.com/api/assets/422215/view
+  My Dinner with Andre:
+    url_poster: https://theposterdb.com/api/assets/497219/view
+  Elemental:
+    url_poster: https://theposterdb.com/api/assets/399137/view
+  Strange Darling:
+    url_poster: https://theposterdb.com/api/assets/529783/view
+  Beetlejuice:
+    url_poster: https://theposterdb.com/api/assets/534113/view
+  Beetlejuice Beetlejuice:
+    url_poster: https://theposterdb.com/api/assets/534112/view
+  It Ends with Us:
+    url_poster: https://theposterdb.com/api/assets/518958/view
+  Trap:
+    url_poster: https://theposterdb.com/api/assets/497866/view
+  Fly Me to the Moon:
+    url_poster: https://theposterdb.com/api/assets/516318/view
+  Longlegs:
+    url_poster: https://theposterdb.com/api/assets/509208/view
+  Challengers:
+    url_poster: https://theposterdb.com/api/assets/449263/view
+  'Ghostbusters: Frozen Empire':
+    url_poster: https://theposterdb.com/api/assets/449263/view
+  Megamind vs. The Doom Syndicate:
+    url_poster: https://theposterdb.com/api/assets/470876/view
+  'The Bad Guys: A Very Bad Holiday':
+    url_poster: https://theposterdb.com/api/assets/438243/view
+  The Killer's Game: 
+    url_poster: https://theposterdb.com/api/assets/525254/view
+  Romeo + Juliet:
+    url_poster: https://theposterdb.com/api/assets/108792/view
+  The Substance:
+    url_poster: https://theposterdb.com/api/assets/498277/view
+  
